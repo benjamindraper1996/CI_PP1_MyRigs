@@ -1,3 +1,5 @@
+![MY RIGS](assets/images/home-screen-hero.png)
+
 ## MY RIGS
 
 A new online only PC sales company website, headquartered in Braintree, The United Kingdom. The Website will feature a number of images of their products available to purchase. Helping to inform visitors to the website of the products available the website will consist of multiple separate pages to include a description of the business with their goals and ethos, A page for all their products with images representing each design and a description accompanying it. There will also be “Contact Us” page to contact the team about any sales inquiries or support.
@@ -56,23 +58,23 @@ The website will inspire visitors to make an informed decision and feel confiden
 
 Mobile Design
 
-- Home Page
+- [Home Page](documentation/wireframes/home-screen-mobile.png)
 
-- Products Page
+- [Products Page](documentation/wireframes/products-mobile.png)
 
-- Contact Us Page
+- [Contact Us Page](documentation/wireframes/contact-us-mobile.png)
 
-- About Us Page
+- [About Us Page](documentation/wireframes/about-us-mobile.png)
 
 Desktop Design
 
-- Home Page
+- [Home Page](documentation/wireframes/home-screen-desktop.png)
 
-- Products Page
+- [Products Page](documentation/wireframes/products-desktop.png)
 
-- Contact Us Page
+- [Contact Us Page](documentation/wireframes/contact-us-desktop.png)
 
-- About Us Page
+- [About Us Page](documentation/wireframes/about-us-desktop.png)
 
 #### Typeface and Colours:
 
