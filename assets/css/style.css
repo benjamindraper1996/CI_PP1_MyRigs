@@ -50,12 +50,28 @@ body {
     height: 500px;
     width: 100%;
     overflow: hidden;
-    position: relative;
 }
 
 #home-screen-hero {
-    height: inherit;
-    width: inherit;
-    object-fit: cover;
-    background: url(../images/home-screen-hero.png) no-repeat center center;
+    height: 500px;
+    width: 100%;
+    background-image: url(../images/home-screen-hero.png);
+    background-size: cover;
+    background-position: center top;
+}
+
+#contact-us-hero {
+    height: 500px;
+    width: 100%;
+    background-image: url(../images/contact-us-hero.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#about-us-hero {
+    height: 500px;
+    width: 100%;
+    background-image: url(../images/about-us-hero.jpg);
+    background-size: cover;
+    background-position: center;
 }
