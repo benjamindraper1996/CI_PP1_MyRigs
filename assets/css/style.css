@@ -11,6 +11,11 @@ body {
     font-weight: 300;
 }
 
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
 #name {
     text-transform: uppercase;
     background-color: #303b50;
@@ -20,11 +25,6 @@ body {
     height: 60px;
     width: 20%;
     float: left;
-}
-
-#menu a {
-    text-decoration: none;
-    color: inherit;
 }
 
 #menu {
@@ -44,4 +44,18 @@ body {
     float: right;
     list-style-type: none;
     margin: 20px 20px;
+}
+
+.hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#home-screen-hero {
+    height: inherit;
+    width: inherit;
+    object-fit: cover;
+    background: url(../images/home-screen-hero.png) no-repeat center center;
 }
