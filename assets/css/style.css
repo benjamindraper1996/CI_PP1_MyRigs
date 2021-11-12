@@ -6,13 +6,20 @@
     border: none;
 }
 
-#name {
-    text-transform: uppercase;
-}
-
 body {
     font-family: 'Inter', sans-serif;
     font-weight: 300;
+}
+
+#name {
+    text-transform: uppercase;
+    background-color: #303b50;
+    text-align: center;
+    line-height: 60px;
+    font-size: 120%;
+    height: 60px;
+    width: 20%;
+    float: left;
 }
 
 #menu a {
@@ -21,16 +28,11 @@ body {
 }
 
 #menu {
-    background-color: #303B50;
+    background-color: #99A7C2;
     color: #fff;
     height: 60px;
     width: 100%;
-}
-
-#name {
-    float: left;
-    font-size: 280%;
-    margin-left: 30px;
+    float: right;
 }
 
 #nav {
