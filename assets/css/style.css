@@ -83,6 +83,7 @@ body {
 }
 
 .footer {
+    margin-top: 50px;
     background-color: #A4A4A4;
     height: 80px;
     display: inline-block;
@@ -136,8 +137,8 @@ body {
 }
 
 .home-images {
-    height: 180px;
-    width: 180px;
+    height: 300px;
+    width: 300px;
 }
 
 .content img {
@@ -145,4 +146,35 @@ body {
     margin-right: 10%;
     border: 3px solid #000;
     float: right;
+}
+
+.home-info-swap {
+    padding: 5%;
+}
+
+.title-swap {
+    text-transform: capitalize;
+    border-bottom: 3px solid #C80000;
+    max-width: 40%;
+    text-align: right;
+}
+
+.paragraph-swap {
+    padding-top: 10px;
+    max-width: 40%;
+    font-size: 150%;
+    display: inline-block;
+    text-align: right;
+}
+
+.home-images-swap {
+    height: 300px;
+    width: 300px;
+}
+
+.content-swap img {
+    display: inline;
+    margin-right: 10%;
+    border: 3px solid #000;
+    float: left;
 }
