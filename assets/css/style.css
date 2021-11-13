@@ -23,8 +23,9 @@ body {
     line-height: 60px;
     font-size: 120%;
     height: 60px;
-    width: 20%;
     float: left;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 #menu {
@@ -74,4 +75,16 @@ body {
     background-image: url(../images/about-us-hero.jpg);
     background-size: cover;
     background-position: center;
+}
+
+.footer {
+    background-color: #303b50;
+    height: 80px;
+
+}
+
+.social-networks {
+    float: right;
+    display: inline;
+    line-height: 80px;
 }
