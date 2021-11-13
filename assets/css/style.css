@@ -18,7 +18,7 @@ body {
 
 #name {
     text-transform: uppercase;
-    background-color: #303b50;
+    background-color: #A4A4A4;
     text-align: center;
     line-height: 60px;
     font-size: 120%;
@@ -29,11 +29,12 @@ body {
 }
 
 #menu {
-    background-color: #99A7C2;
+    background-color: #BFBFBF;
     color: #fff;
     height: 60px;
     width: 100%;
     float: right;
+    border-bottom: 3px solid #C80000;
 }
 
 #nav {
@@ -45,6 +46,10 @@ body {
     float: right;
     list-style-type: none;
     margin: 20px 20px;
+}
+
+#nav a:hover {
+    border-bottom: 3px solid #C80000;
 }
 
 .hero-outer {
@@ -78,11 +83,12 @@ body {
 }
 
 .footer {
-    background-color: #303b50;
+    background-color: #A4A4A4;
     height: 80px;
     display: inline-block;
     width: 100%;
     text-align: center;
+    border-top: 3px solid #C80000;
 }
 
 .contact {
