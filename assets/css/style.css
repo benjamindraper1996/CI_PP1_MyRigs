@@ -117,3 +117,32 @@ body {
 #instagram {
     padding-right: 20px;
 }
+
+.home-info {
+    padding: 5%;
+}
+
+.title {
+    text-transform: capitalize;
+    border-bottom: 3px solid #C80000;
+    max-width: 40%;
+}
+
+.paragraph {
+    padding-top: 10px;
+    max-width: 40%;
+    font-size: 150%;
+    display: inline-block;
+}
+
+.home-images {
+    height: 180px;
+    width: 180px;
+}
+
+.content img {
+    display: inline;
+    margin-right: 10%;
+    border: 3px solid #000;
+    float: right;
+}
