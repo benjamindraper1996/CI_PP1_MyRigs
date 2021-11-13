@@ -85,21 +85,25 @@ body {
 }
 
 .contact {
-    text-align: center;
+    list-style-type: none;
+}
+
+.contact li {
     color: #fff;
-    display: block;
+    text-align: center;
+    display: inline-block;
+    padding: 30px 100px;
+    font-size: 20px;
 }
 
 .social-networks {
     list-style-type: none;
-    float: right;
-    height: 50px;
-    width: 50px;
-    padding: 20px;
 }
 
 .social-networks li {
-    display: inline;
+    display: inline-block;
+    float: right;
+    padding: 20px;
 }
 
 .social-networks img {
