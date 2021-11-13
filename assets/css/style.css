@@ -80,11 +80,29 @@ body {
 .footer {
     background-color: #303b50;
     height: 80px;
+    display: inline-block;
+    width: 100%;
+}
 
+.contact {
+    text-align: center;
+    color: #fff;
+    display: block;
 }
 
 .social-networks {
+    list-style-type: none;
     float: right;
+    height: 50px;
+    width: 50px;
+    padding: 20px;
+}
+
+.social-networks li {
     display: inline;
-    line-height: 80px;
+}
+
+.social-networks img {
+    height: 40px;
+    width: 40px;
 }
