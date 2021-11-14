@@ -120,61 +120,37 @@ body {
 }
 
 .home-info {
-    padding: 5%;
+    width: 80%;
+    margin:50px 10%;
 }
 
-.title {
-    text-transform: capitalize;
-    border-bottom: 3px solid #C80000;
-    max-width: 40%;
-}
-
-.paragraph {
-    padding-top: 10px;
+.what-we-do, .cheap-and-capable-gaming {
     max-width: 40%;
     font-size: 150%;
     display: inline-block;
+    height: 400px;
+    padding-top: 50px;
 }
 
-.home-images {
-    height: 300px;
-    width: 300px;
+.what-we-do h1, .cheap-and-capable-gaming h1 {
+    text-transform: capitalize;
+    border-bottom: 3px solid #C80000;
 }
 
-.content img {
-    display: inline;
-    margin-right: 10%;
-    border: 3px solid #000;
+.home-info img {
+    height: 30%;
+    width: 30%;
+    margin: 0 50px;
+}
+
+.float-right {
+    max-width: 40%;
+    padding-top: 50px;
     float: right;
 }
 
-.home-info-swap {
-    padding: 5%;
-}
-
-.title-swap {
-    text-transform: capitalize;
-    border-bottom: 3px solid #C80000;
+.float-left {
     max-width: 40%;
-    text-align: right;
-}
-
-.paragraph-swap {
-    padding-top: 10px;
-    max-width: 40%;
-    font-size: 150%;
-    display: inline-block;
-    text-align: right;
-}
-
-.home-images-swap {
-    height: 300px;
-    width: 300px;
-}
-
-.content-swap img {
-    display: inline;
-    margin-right: 10%;
-    border: 3px solid #000;
+    padding-top: 50px;
     float: left;
 }
