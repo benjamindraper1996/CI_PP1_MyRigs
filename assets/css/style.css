@@ -124,7 +124,7 @@ body {
     margin:50px 10%;
 }
 
-.what-we-do, .cheap-and-capable-gaming {
+.what-we-do, .cheap-and-capable-gaming, .your-pc-your-way {
     max-width: 40%;
     font-size: 150%;
     display: inline-block;
@@ -132,25 +132,51 @@ body {
     padding-top: 50px;
 }
 
-.what-we-do h1, .cheap-and-capable-gaming h1 {
+.what-we-do, .your-pc-your-way {
+    margin-right: 10%;
+}
+
+.cheap-and-capable-gaming {
+    text-align: right;
+    margin-left: 10%;
+}
+
+.what-we-do h1, .cheap-and-capable-gaming h1, .your-pc-your-way h1 {
     text-transform: capitalize;
     border-bottom: 3px solid #C80000;
 }
 
-.home-info img {
-    height: 30%;
-    width: 30%;
-    margin: 0 50px;
-}
-
 .float-right {
-    max-width: 40%;
+    max-width: 50%;
     padding-top: 50px;
     float: right;
+    height: 300px;
 }
 
 .float-left {
-    max-width: 40%;
+    max-width: 50%;
     padding-top: 50px;
     float: left;
+    height: 300px;
+}
+
+.image-box {
+    width: 40%;
+    height: 100%;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.image-box img {
+    width: auto;
+    height: 100%;
+}
+
+.float-left div {
+    margin-right: 5%;
+}
+
+.float-right div {
+    margin-left: 5%;
+    float: right;
 }
