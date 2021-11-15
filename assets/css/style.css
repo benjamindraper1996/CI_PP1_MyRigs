@@ -49,7 +49,7 @@ body {
 }
 
 #nav a:hover {
-    border-bottom: 3px solid #C80000;
+    text-decoration: underline 3px solid #C80000;
 }
 
 .hero-outer {
@@ -143,7 +143,7 @@ body {
 
 .what-we-do h1, .cheap-and-capable-gaming h1, .your-pc-your-way h1 {
     text-transform: capitalize;
-    border-bottom: 3px solid #C80000;
+    text-decoration: underline 3px solid #C80000;
 }
 
 .float-right {
@@ -200,8 +200,7 @@ body {
 }
 
 #products-content h1 {
-    border-bottom: 3px solid #C80000;
-    text-transform: capitalize;
+    text-decoration: underline 3px solid #C80000;
 }
 
 #products-content p {
@@ -218,20 +217,72 @@ body {
     height: 500px;
     width: 100%;
     background-color: #BFBFBF;
+    margin-bottom: 50px;
 }
 
 #get-in-touch {
     text-align: center;
-    margin: 0 20% ;
+    margin: 0 20%;
     font-size: 180%;
     padding: 5% 0;
 }
 
 #get-in-touch h1 {
-    border-bottom: 3px solid #C80000;
-    text-transform: capitalize;
+    text-decoration: underline 3px solid #C80000;
 }
 
 #get-in-touch p {
     margin-top: 10%;
+}
+
+#form-and-location {
+    height: 750px;
+    width: 100%;
+}
+
+#contact-form {
+    height: inherit;
+    width: 50%;
+    float: left;
+    background-color: red;
+}
+
+#location-outer {
+    height: inherit;
+    width: 50%;
+    float: right;
+}
+
+#location {
+    width: 90%;
+    height: inherit;
+    margin: 0 5%;
+    position: relative;
+}
+
+#address-outer {
+    height: 40%;
+    width: 100%;
+    background-color: #BFBFBF;
+    text-transform: capitalize;
+    font-size: 120%;
+    text-align: center;
+}
+
+#address-outer h1 {
+    max-width: 50%;
+    margin: 0 25%;
+    text-decoration: underline 3px solid #C80000;
+}
+
+#address {
+    padding: 10% 0;
+}
+
+#google-map {
+    background-color: blue;
+    width: 100%;
+    height: 55%;
+    position: absolute;
+    bottom: 0px;
 }
