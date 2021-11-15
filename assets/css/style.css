@@ -223,7 +223,7 @@ body {
 #get-in-touch {
     text-align: center;
     margin: 0 20%;
-    font-size: 180%;
+    font-size: 200%;
     padding: 5% 0;
 }
 
@@ -232,7 +232,7 @@ body {
 }
 
 #get-in-touch p {
-    margin-top: 10%;
+    margin-top: 5%;
 }
 
 #form-and-location {
