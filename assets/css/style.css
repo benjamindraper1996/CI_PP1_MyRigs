@@ -194,8 +194,9 @@ body {
 
 #products-content {
     text-align: center;
-    margin: 10% 20% 0 20%;
+    margin: 0 20% ;
     font-size: 180%;
+    padding: 5% 0;
 }
 
 #products-content h1 {
@@ -205,5 +206,32 @@ body {
 
 #products-content p {
     margin-top: 10%;
-    font-size: 190%;
+}
+
+#products-carousel-outer {
+    height: 500px;
+    width: 100%;
+    background-color: #BFBFBF;
+}
+
+#get-in-touch-outer {
+    height: 500px;
+    width: 100%;
+    background-color: #BFBFBF;
+}
+
+#get-in-touch {
+    text-align: center;
+    margin: 0 20% ;
+    font-size: 180%;
+    padding: 5% 0;
+}
+
+#get-in-touch h1 {
+    border-bottom: 3px solid #C80000;
+    text-transform: capitalize;
+}
+
+#get-in-touch p {
+    margin-top: 10%;
 }
