@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/style.css">
     <title>My Rigs</title>
 </head>
@@ -36,7 +37,50 @@
     </header>
     <section id="products-carousel-outer">
         <div id="products-carousel">
-
+            <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner" data-bs-interval="10000">
+                  <div class="carousel-item active">
+                    <div id="fortnight">
+                        <img src="assets/images/freaky-forts-black.jpg" class="d-block w-100" alt="Fortnight Themed Computer.">
+                        <img src="assets/images/freaky-forts-green.jpg" class="d-block w-100" alt="Fortnight Themed Computer.">
+                        <div class="carousel-caption d-none d-md-block">
+                            <h5>Fortnight Themed Computer.</h5>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="carousel-item" data-bs-interval="10000">
+                        <div id="lego">
+                            <img src="assets/images/lego-brick-pc.png" class="d-block w-100" alt="Lego Themed Computer.">
+                            <img src="assets/images/lego-brick-wall-pc.jpg" class="d-block w-100" alt="Lego Themed Computer.">
+                            <div class="carousel-caption d-none d-md-block">
+                            <h5>Lego Themed Computer.</h5>
+                            </div>
+                        </div>
+                  </div>
+                  <div class="carousel-item" data-bs-interval="10000">
+                        <div id="minecraft">
+                            <img src="assets/images/minecraft-grass-pc.jpg" class="d-block w-100" alt="Minecraft Themed Computer.">
+                            <img src="assets/images/minecraft-ore-pc.jpg" class="d-block w-100" alt="Minecraft Themed Computer.">
+                            <div class="carousel-caption d-none d-md-block">
+                            <h5>Minecraft Themed Computer.</h5>
+                            </div>
+                        </div>
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
         </div>
     </section>
     <section id="products-content-outer">
@@ -66,5 +110,7 @@
             </ul>
         </div>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
 </body>
 </html>

@@ -280,9 +280,23 @@ body {
 }
 
 #google-map {
-    background-color: blue;
     width: 100%;
     height: 55%;
     position: absolute;
     bottom: 0px;
+}
+
+.carousel-item {
+    height: inherit;
+    width: auto;
+}
+
+.carousel-caption h5 {
+    color: #000;
+}
+
+#fortnight img, #lego img, #minecraft img {
+    display: inline-block;
+    width: auto;
+    height: 400px;
 }
