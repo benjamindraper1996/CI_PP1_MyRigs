@@ -125,60 +125,95 @@ body {
 }
 
 .what-we-do, .cheap-and-capable-gaming, .your-pc-your-way {
-    max-width: 40%;
     font-size: 150%;
     display: inline-block;
-    height: 400px;
     padding-top: 50px;
-}
-
-.what-we-do, .your-pc-your-way {
-    margin-right: 10%;
-}
-
-.cheap-and-capable-gaming {
-    text-align: right;
-    margin-left: 10%;
 }
 
 .what-we-do h1, .cheap-and-capable-gaming h1, .your-pc-your-way h1 {
     text-transform: capitalize;
     text-decoration: underline 3px solid #C80000;
+    margin-bottom: 20px;
 }
 
-.float-right {
-    max-width: 50%;
-    padding-top: 50px;
-    float: right;
-    height: 300px;
-}
-
-.float-left {
-    max-width: 50%;
-    padding-top: 50px;
+.text-box-left {
     float: left;
-    height: 300px;
+    width: 35%;
+    padding: 2.5%;
 }
 
-.image-box {
-    width: 40%;
-    height: 100%;
-    overflow: hidden;
-    display: inline-block;
+.image-box-right {
+    float: left;
+    width: 25%;
+    padding: 2.5%;
+    text-align: right;
 }
 
-.image-box img {
-    width: auto;
-    height: 100%;
+.image-box-right img {
+    max-width: 250px;
+    height: 250px;
+    object-fit: cover;
 }
 
-.float-left div {
-    margin-right: 5%;
-}
-
-.float-right div {
-    margin-left: 5%;
+.text-box-right {
     float: right;
+    width: 35%;
+    text-align: right;
+    padding: 2.5%;
+}
+
+.image-box-left {
+    float: right;
+    width: 25%;
+    padding: 2.5%;
+}
+
+.image-box-left img {
+    max-width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 1050px) {
+    .image-box-right, .image-box-left {
+        width: auto;
+    }
+
+    .image-box-right {
+        float: right;
+    }
+
+    .image-box-left {
+        float: left;
+    }
+
+    .text-box-right, .text-box-left {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .image-box-right img, .image-box-left img {
+        max-width: 200px;
+        max-height: 200px;
+    }
+
+    .text-box-right, .text-box-left {
+        font-size: 90%;
+        }
+}
+
+@media screen and (max-width: 700px) {
+    .text-box-right, .text-box-left {
+        font-size: 75%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .text-box-right, .image-box-right, .image-box-left, .text-box-left {
+        width: 100%;
+        text-align: center;
+    }
 }
 
 #products-carousel-outer {
