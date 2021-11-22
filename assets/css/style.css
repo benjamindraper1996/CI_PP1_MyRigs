@@ -60,7 +60,7 @@ body {
 .footer {
     margin-top: 50px;
     background-color: #A4A4A4;
-    height: 80px;
+    height: auto;
     display: inline-block;
     width: 100%;
     text-align: center;
@@ -79,7 +79,24 @@ body {
     padding-right: 40px;
 }
 
-.social-networks {
+#contact-info {
+    height: 80px;
+    width: 66%;
+    float: left;
+    text-align: right;
+}
+
+#email {
+    margin-right: 5%;
+}
+
+#social-networks-list {
+    width: 33%;
+    height: 80px;
+    float: right;
+}
+
+#social-networks-list .social-networks {
     list-style-type: none;
     float: right;
     padding: 20px 10px;
@@ -179,18 +196,50 @@ body {
         font-size: 90%;
         }
 
-    
+    .footer ul {
+        padding: 0;
+    }
+
+    #phone, #email {
+        float: none;
+        padding: 0;
+        text-align: center;
+        margin: 0;
+        display: block;
+    }
+
+    #phone p, #email p {
+        margin: 0;
+    }
+
+    #social-networks-list {
+        display: block;
+        height: 40px;
+    }
 }
 
 @media screen and (max-width: 700px) {
     .text-box-right, .text-box-left {
         font-size: 75%;
     }
+
 }
 
 @media screen and (max-width: 500px) {
     .text-box-right, .image-box-right, .image-box-left, .text-box-left {
         width: 100%;
+        text-align: center;
+    }
+
+    #contact-info {
+        width: 100%;
+    }
+
+    #social-networks-list {
+        width: 100%;
+    }
+
+    #twitter a {
         text-align: center;
     }
 }
