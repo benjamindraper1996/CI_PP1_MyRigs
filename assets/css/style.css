@@ -185,6 +185,11 @@ body {
     .text-box-right, .text-box-left {
         width: 40%;
     }
+
+    .carousel-item {
+        width: auto;
+        margin: 0 18%;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -217,6 +222,10 @@ body {
         display: block;
         height: 40px;
     }
+
+    .carousel-item {
+        margin: 0 auto;
+    }
 }
 
 @media screen and (max-width: 700px) {
@@ -242,6 +251,16 @@ body {
 
     #twitter a {
         text-align: center;
+    }
+
+    .carousel-inner {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .carousel-item img {
+        width: 300px;
+        height: auto;
     }
 }
 
@@ -350,18 +369,25 @@ body {
     bottom: 0px;
 }
 
-.carousel-item {
-    height: 500px;
-    width: 100%;
+.carousel-inner {
+    width: auto;
+    margin: 0 auto;
 }
 
-.carousel-item img {
-    height: auto;
-    max-width: 50%;
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-right {
+    float: right;
 }
 
 .carousel-caption h5 {
     color: #000;
+    background-color: #fff;
+    width: 40%;
+    text-align: center;
+    margin: 0 30%;
 }
 
 #accordion-outer {
