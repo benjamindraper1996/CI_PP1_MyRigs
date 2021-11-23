@@ -190,6 +190,11 @@ body {
         width: auto;
         margin: 0 18%;
     }
+
+    #address-outer h1 {
+        font-size: 180%;
+        width: 80%;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -225,6 +230,11 @@ body {
 
     .carousel-item {
         margin: 0 auto;
+    }
+
+    #address-outer h1 {
+        font-size: 150%;
+        width: 80%;
     }
 }
 
@@ -262,12 +272,26 @@ body {
         width: 300px;
         height: auto;
     }
+
+    #products-content h1, #products-content p {
+        font-size: 80%;
+    }
+
+    #get-in-touch p {
+        font-size: 70%;
+    }
+
+    #form-and-location div {
+        width: 100%;
+
+    }
 }
 
 #products-carousel-outer {
     height: 500px;
     width: 100%;
     background-color: #BFBFBF;
+    overflow: hidden;
 }
 
 #products-content-outer {
@@ -294,6 +318,32 @@ body {
     height: 500px;
     width: 100%;
     background-color: #fff;
+}
+
+.carousel-fade .carousel-item {
+	opacity: 0;
+	transition-duration: .6s;
+	transition-property: opacity;
+}
+
+.carousel-fade .carousel-item.active,
+.carousel-fade .carousel-item-next.carousel-item-left,
+.carousel-fade .carousel-item-prev.carousel-item-right {
+	opacity: 1;
+}
+
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-right {
+	opacity: 0;
+}
+
+.carousel-fade .carousel-item-next,
+.carousel-fade .carousel-item-prev,
+.carousel-fade .carousel-item.active,
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-prev {
+	transform: translateX(0);
+	transform: translate3d(0, 0, 0);
 }
 
 #get-in-touch-outer {
@@ -348,8 +398,11 @@ body {
     width: 100%;
     background-color: #BFBFBF;
     text-transform: capitalize;
-    font-size: 120%;
     text-align: center;
+}
+
+#address {
+    font-size: 120%;
 }
 
 #address-outer h1 {
@@ -359,7 +412,7 @@ body {
 }
 
 #address {
-    padding: 10% 0;
+    padding: 5% 0;
 }
 
 #google-map {
