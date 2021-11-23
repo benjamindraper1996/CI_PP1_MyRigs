@@ -91,7 +91,8 @@ body {
     text-align: right;
 }
 
-#contact-info, #social-networks-list {
+#contact-info,
+#social-networks-list {
     margin: 10px 0;
 }
 
@@ -122,20 +123,26 @@ body {
 
 .home-info {
     width: 80%;
-    margin:50px 10%;
+    margin: 50px 10%;
 }
 
-.what-we-do, .cheap-and-capable-gaming, .your-pc-your-way {
+.what-we-do,
+.cheap-and-capable-gaming,
+.your-pc-your-way {
     font-size: 150%;
     display: inline-block;
     padding-top: 50px;
 }
 
-.what-we-do p, .cheap-and-capable-gaming p, .your-pc-your-way p {
+.what-we-do p,
+.cheap-and-capable-gaming p,
+.your-pc-your-way p {
     padding-top: 20px;
 }
 
-.what-we-do h1, .cheap-and-capable-gaming h1, .your-pc-your-way h1 {
+.what-we-do h1,
+.cheap-and-capable-gaming h1,
+.your-pc-your-way h1 {
     text-transform: capitalize;
     text-decoration: underline 3px solid #C80000;
 }
@@ -179,7 +186,9 @@ body {
 }
 
 @media screen and (max-width: 1050px) {
-    .image-box-right, .image-box-left {
+
+    .image-box-right,
+    .image-box-left {
         width: auto;
     }
 
@@ -191,7 +200,8 @@ body {
         float: left;
     }
 
-    .text-box-right, .text-box-left {
+    .text-box-right,
+    .text-box-left {
         width: 40%;
     }
 
@@ -217,20 +227,23 @@ body {
         height: 400px;
     }
 
-    .image-box-right img, .image-box-left img {
+    .image-box-right img,
+    .image-box-left img {
         max-width: 200px;
         max-height: 200px;
     }
 
-    .text-box-right, .text-box-left {
+    .text-box-right,
+    .text-box-left {
         font-size: 90%;
-        }
+    }
 
     .footer ul {
         padding: 0;
     }
 
-    #phone, #email {
+    #phone,
+    #email {
         float: none;
         padding: 0;
         text-align: center;
@@ -259,7 +272,9 @@ body {
 }
 
 @media screen and (max-width: 700px) {
-    .text-box-right, .text-box-left {
+
+    .text-box-right,
+    .text-box-left {
         font-size: 75%;
     }
 
@@ -268,7 +283,9 @@ body {
         height: 300px;
     }
 
-    #home-screen-hero, #contact-us-hero, #about-us-hero {
+    #home-screen-hero,
+    #contact-us-hero,
+    #about-us-hero {
         width: 100%;
         height: 300px;
     }
@@ -276,7 +293,11 @@ body {
 }
 
 @media screen and (max-width: 500px) {
-    .text-box-right, .image-box-right, .image-box-left, .text-box-left {
+
+    .text-box-right,
+    .image-box-right,
+    .image-box-left,
+    .text-box-left {
         width: 100%;
         text-align: center;
     }
@@ -295,7 +316,8 @@ body {
         height: auto;
     }
 
-    #products-content h1, #products-content p {
+    #products-content h1,
+    #products-content p {
         font-size: 80%;
     }
 
@@ -323,7 +345,7 @@ body {
 
 #products-content {
     text-align: center;
-    margin: 0 20% ;
+    margin: 0 20%;
     font-size: 180%;
     padding: 5% 0;
 }
@@ -343,20 +365,20 @@ body {
 }
 
 .carousel-fade .carousel-item {
-	opacity: 0;
-	transition-duration: .6s;
-	transition-property: opacity;
+    opacity: 0;
+    transition-duration: .6s;
+    transition-property: opacity;
 }
 
 .carousel-fade .carousel-item.active,
 .carousel-fade .carousel-item-next.carousel-item-left,
 .carousel-fade .carousel-item-prev.carousel-item-right {
-	opacity: 1;
+    opacity: 1;
 }
 
 .carousel-fade .active.carousel-item-left,
 .carousel-fade .active.carousel-item-right {
-	opacity: 0;
+    opacity: 0;
 }
 
 .carousel-fade .carousel-item-next,
@@ -364,8 +386,8 @@ body {
 .carousel-fade .carousel-item.active,
 .carousel-fade .active.carousel-item-left,
 .carousel-fade .active.carousel-item-prev {
-	transform: translateX(0);
-	transform: translate3d(0, 0, 0);
+    transform: translateX(0);
+    transform: translate3d(0, 0, 0);
 }
 
 #get-in-touch-outer {
