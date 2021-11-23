@@ -13,6 +13,7 @@ body {
 
 .navbar {
     background-color: #A4A4A4;
+    border-bottom: 3px solid #C80000;
 }
 
 .navbar-brand {
@@ -25,6 +26,10 @@ body {
 .nav-link {
     font-size: 120%;
     padding: 0 30px;
+}
+
+.nav-item :hover {
+    text-decoration: 3px underline #C80000;
 }
 
 .hero-outer {
@@ -84,6 +89,10 @@ body {
     width: 66%;
     float: left;
     text-align: right;
+}
+
+#contact-info, #social-networks-list {
+    margin: 10px 0;
 }
 
 #email {
@@ -198,6 +207,16 @@ body {
 }
 
 @media screen and (max-width: 800px) {
+    .hero-outer {
+        width: 100%;
+        height: 400px;
+    }
+
+    #home-screen-hero {
+        width: 100%;
+        height: 400px;
+    }
+
     .image-box-right img, .image-box-left img {
         max-width: 200px;
         max-height: 200px;
@@ -219,13 +238,14 @@ body {
         display: block;
     }
 
-    #phone p, #email p {
-        margin: 0;
+    #contact-info {
+        width: 100%;
     }
 
     #social-networks-list {
-        display: block;
-        height: 40px;
+        display: inline-block;
+        width: fit-content;
+        float: none;
     }
 
     .carousel-item {
@@ -243,20 +263,22 @@ body {
         font-size: 75%;
     }
 
+    .hero-outer {
+        width: 100%;
+        height: 300px;
+    }
+
+    #home-screen-hero {
+        width: 100%;
+        height: 300px;
+    }
+
 }
 
 @media screen and (max-width: 500px) {
     .text-box-right, .image-box-right, .image-box-left, .text-box-left {
         width: 100%;
         text-align: center;
-    }
-
-    #contact-info {
-        width: 100%;
-    }
-
-    #social-networks-list {
-        width: 100%;
     }
 
     #twitter a {
@@ -454,11 +476,17 @@ body {
 }
 
 .accordion-button:focus {
-    border-color: #000;
+    box-shadow: 0 0 0 3px rgb(100 0 0 / 20%)
 }
 
 .accordion-button:not(.collapsed) {
-    color: #C80000;
+    color: #fff;
+    border-bottom: 3px solid #C80000;
     background-color: #A4A4A4;
     box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23c80000'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+    transform: rotate(-180deg);
 }
