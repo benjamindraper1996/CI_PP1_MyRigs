@@ -268,7 +268,7 @@ body {
         height: 300px;
     }
 
-    #home-screen-hero {
+    #home-screen-hero, #contact-us-hero, #about-us-hero {
         width: 100%;
         height: 300px;
     }
