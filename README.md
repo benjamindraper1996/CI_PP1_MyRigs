@@ -49,6 +49,17 @@
 3. As a first-time user, I want to know more about what the company does.
 4. As a first-time user, I want to get an idea of what to expect from the look and ability of my computer.
 
+#### Returning User
+5. As a returning user, I want to see easy access to the support area.
+6. As a returning user, I want to know how to contact customer support.
+7. As a returning user, I want to find a phone number to call for ongoing support queries.
+8. As a returning user, I want to see any new products that are available.
+9. As a returning user, I want to leave some comment, suggestion, or message to the staff.
+10. As a returning user, I want to find the company on social media.
+11. As a returning user, I want to know who owns the company.
+12. As a returning user, I want to get directions to the offices.
+
+
 
 
 
