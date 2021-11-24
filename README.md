@@ -31,6 +31,17 @@
 - People looking for a themed computer for their child.
 - People who are looking for an easy and jargon free service.
 
+### User Requirements and Expectations
+
+- An Intuitive and accessible navigation system.
+- Easily find relevant information relating to the company and the products.
+- All links work as expected and functions perform their tasks correctly.
+- Presentation is in line with the company guidelines and the website is visually appealing on all screen sizes.
+- Easy access to contact information.
+- Easy to read Headings to draw attention to the areas of interest to the customer.
+- Accessibility features.
+
+
 
 # MY RIGS
 
