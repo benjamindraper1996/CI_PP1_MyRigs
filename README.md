@@ -1,3 +1,23 @@
+# My Rigs
+(Developer: Benjamin Draper)
+
+<!-- ![Mock-up image](docs/am-i-responsive.jpg)-->
+
+<!-- [Live webpage](https://4n4ru.github.io/CI_MS1_BodelschwingherHof/) -->
+
+## Table of Content
+
+<!-- table of content to be made last -->
+
+## Project Goals 
+
+### User Goals
+- Finding a website that offers a range of gaming computers for children.
+- See list of the available products and designs.
+- Find information about the company.
+- Find the location of the company.
+
+
 # MY RIGS
 
 MY RIGS is a brand new, refurbished computer sales company based in Braintree, the United Kingdom. The website will be targeted toward people looking to buy a gaming computer at an afordable price. MY RIGS will be useful to compare the available products and make first contact with the company for sales and support.
