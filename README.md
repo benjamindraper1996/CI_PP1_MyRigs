@@ -81,6 +81,13 @@ The business owners preferred the use of Inter font as the main, with a backup o
 <br>
 For the Secondary font the owners decided to use Quicksand with a backup of sans-serif, this will be used for emphasis and future changes to the website should there be major content updates. 
 
+### Structure
+The page is structured in a regularly used, well know, user friendly, and easy to navigate. Upon arriving to the website, the user sees a familiar type of navigation bar with the company name on the left side and the navigation links to the links along the top. 
+The website consists of four separate pages: 
+- A homepage with a section for “What We Do”, “Cheap and Powerful Gaming” and “Your PC Your Way”.
+- A products page with a carousel and information about all the products available.
+- A contact us page with a contact form, a map, and the company office location.
+- An about us page with the information about the owners, the security measures they take and the additional services they can offer.
 
 
 
