@@ -17,6 +17,13 @@
 - Find information about the company.
 - Find the location of the company.
 
+### Site Owner Goals
+- Increase in the number of customers visiting the website.
+- Promote the company to customers.
+- Provide a way for new and existing customers to contact the business for sales and support queries.
+- Provide essential information about the business to customers.
+
+
 
 # MY RIGS
 
