@@ -121,14 +121,18 @@ body {
     padding-right: 20px;
 }
 
-.home-info {
+.home-info,
+#product-info {
     width: 80%;
     margin: 50px 10%;
 }
 
 .what-we-do,
 .cheap-and-capable-gaming,
-.your-pc-your-way {
+.your-pc-your-way,
+.lego,
+.freaky-forts,
+.minecraft {
     font-size: 150%;
     display: inline-block;
     padding-top: 50px;
