@@ -64,6 +64,12 @@
 14. As the company owner, I want users to get to know the website. 
 15. As the company owner, I want the users to be able to contact us easily.
 
+## Design
+
+### Design Choices
+The website was designed to reflect the industrial design of most computers. The company does add a vinyl skin to their computers depending upon the chosen design and to reflect this I have added some imagery and colour that the gaming industry uses to reflect computer gaming.
+
+
 
 
 
