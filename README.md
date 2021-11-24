@@ -59,6 +59,10 @@
 11. As a returning user, I want to know who owns the company.
 12. As a returning user, I want to get directions to the offices.
 
+#### Company Owner 
+13. As the company owner, I want users to find information about the products available from the company.
+14. As the company owner, I want users to get to know the website. 
+15. As the company owner, I want the users to be able to contact us easily.
 
 
 
