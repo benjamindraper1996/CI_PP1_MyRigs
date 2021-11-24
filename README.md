@@ -89,6 +89,38 @@ The website consists of four separate pages:
 - A contact us page with a contact form, a map, and the company office location.
 - An about us page with the information about the owners, the security measures they take and the additional services they can offer.
 
+### Wireframes
+
+Mobile Design
+
+<details><summary>Home Page</summary>
+<img src=" documentation/wireframes/home-screen-mobile.png">
+</details>
+<details><summary>Products Page</summary>
+<img src=" documentation/wireframes/products-mobile.png">
+</details>
+<details><summary>Contact Us Page</summary>
+<img src=" documentation/wireframes/contact-us-mobile.png">
+</details>
+<details><summary>About Us Page</summary>
+<img src=" documentation/wireframes/about-us-mobile.png">
+</details>
+
+Desktop Design
+
+<details><summary>Home Page</summary>
+<img src=" documentation/wireframes/home-screen-desktop.png">
+</details>
+<details><summary>Products Page</summary>
+<img src=" documentation/wireframes/products-desktop.png">
+</details>
+<details><summary>Contact Us Page</summary>
+<img src=" documentation/wireframes/contact-us-desktop.png">
+</details>
+<details><summary>About Us Page</summary>
+<img src=" documentation/wireframes/about-us-desktop.png">
+</details>
+
 
 
 
