@@ -183,27 +183,6 @@ MY RIGS is a brand new, refurbished computer sales company based in Braintree, t
 - Order system
     - Simple order system for orders that do not require any sales team intervention, this free's up time for the sales team to focus on the people who really need help instead of people who already know what they want.
 
-## The business wants this website to acheive:
-- An easy way to view and find the information relating to their products.
-- An easy way of contacting the sales and support teams with any questions.
-- A platform to show case the business brand.
-- An increase in customer reach by providing a online platform for the business.
-
-## The customers should be able to expect:
-- The website to make searching for products easy and informative.
-- The contact information is clearly laid out with a web form for queries.
-- Information about the company and their ethos clearly labeled.
-
-## Client user stories:
-
-1. New visitors to the website will want a clear easy and intuitive layout.
-2. New visitors to the website want to find out information about the business and the products available, to make and informed purchase.
-3. New visitors will want to be able to see multiple products available and the differences between them.
-4. Potential buyers will want to know more about the business, the owner and the team. This helps to build trust in the services they are offering.
-5. Potential buyers are looking for a business that has good support links via email contact or social media handles that are made easilly accessible.
-6. Potential buyers want to be able to contact the sales team for a quote via the web form to initiate an email conversation.
-7. Returning visitors want to be able to have easy access to support channels for any post purchase issues.
-
 ## This website is the optimal way to acheive these goals because:
 
 - Most larger PC sales companies have websites that include an overwhelming variety of options with a difficult navigation system.
@@ -214,51 +193,6 @@ MY RIGS is a brand new, refurbished computer sales company based in Braintree, t
     - Provides information about the business and the owner.
     - Has an easy to use form to make first contact with the sales and support team.
 - Other sites focus more on the services or bundles that are applied to their products instead of the main PC.
-
-## Clients that visit this website will be looking for:
-
-- A business to buy the ideal "First PC" for themselves or someone else, which give them all the information and confidence to make a good decsion.
-- The ability select the best option for their needs and also return for support later if required.
-- A personalised service tailored to the users needs.
-
-## An ideal customer/client will:
-
-- Be looking to purchace their "First PC" for themself or someone they know.
-- Have the disposable income available to purchase the products.
-- Live anywhere within the United Kingdom.
-
-## Wireframe mock-ups:
-
-Mobile Design
-
-- [Home Page](documentation/wireframes/home-screen-mobile.png)
-
-- [Products Page](documentation/wireframes/products-mobile.png)
-
-- [Contact Us Page](documentation/wireframes/contact-us-mobile.png)
-
-- [About Us Page](documentation/wireframes/about-us-mobile.png)
-
-Desktop Design
-
-- [Home Page](documentation/wireframes/home-screen-desktop.png)
-
-- [Products Page](documentation/wireframes/products-desktop.png)
-
-- [Contact Us Page](documentation/wireframes/contact-us-desktop.png)
-
-- [About Us Page](documentation/wireframes/about-us-desktop.png)
-
-## Typeface and Colours:
-
-- Colours:
-    - When consulting the business owner and looking at a number of other websites from other competitors, as well as market reviews, we determined that the majority of people making the purchase will be adults buying for children or young adults.
-    - We found that while children would be more persuaded by a bright and shiny theme, the adult purchasing is far more likely to use the website if it included a consistant, neutral theme with a slight emphasis around specific items of interest.
-    - To give feeling that the website has a high quality, the business owner has agreed upon the use of greys and red hues where appropiate to allow certain items to stand out. As the background will be a darker colour the text will be set to white to aid in accessibiltity
-
-- Typeface:
-    - The businsess owner preferred the use of "Inter" font with a backup of sans-serif for all headings and body content across the website. This was chosen to maintain a consistant and professional look across the whole website in an easily readable format.
-    - The owner also decided to choose "Quicksand" with a backup of sans-serif for all future changes and updates to the website should we want to update the content for future versions.
 
     ## Testing
 
