@@ -41,6 +41,15 @@
 - Easy to read Headings to draw attention to the areas of interest to the customer.
 - Accessibility features.
 
+### User Stories
+
+#### First-time User 
+1. As a first-time user, I want to know where the company is located.
+2. As a first-time user, I want to know the price range of their products.
+3. As a first-time user, I want to know more about what the company does.
+4. As a first-time user, I want to get an idea of what to expect from the look and ability of my computer.
+
+
 
 
 # MY RIGS
