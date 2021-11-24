@@ -23,6 +23,13 @@
 - Provide a way for new and existing customers to contact the business for sales and support queries.
 - Provide essential information about the business to customers.
 
+## User Experience
+
+### Target Audience
+- People looking for a computer for a child.
+- People looking to buy a computer that is capable but have a limited budget.
+- People looking for a themed computer for their child.
+- People who are looking for an easy and jargon free service.
 
 
 # MY RIGS
