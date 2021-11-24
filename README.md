@@ -3,7 +3,7 @@
 
 <!-- ![Mock-up image](docs/am-i-responsive.jpg)-->
 
-<!-- [Live webpage](https://4n4ru.github.io/CI_MS1_BodelschwingherHof/) -->
+ [Live webpage](https://benjamindraper1996.github.io/CI_PP1_MyRigs/)
 
 ## Table of Content
 
@@ -72,6 +72,16 @@ The website was designed to reflect the industrial design of most computers. The
 ### Colour
 
 For the colour scheme the company owners chose to use a grey theme and highlight with mainly red and a little bit of blue to draw attention to certain areas while still reflecting both the industrial and gaming themes. To narrow down the colours I used https://coolors.co/.
+<br>
+
+![Colour scheme](documentation/features/color-palette.PNG)
+
+### Fonts
+The business owners preferred the use of Inter font as the main, with a backup of sans-serif across the website. This is used to maintain a Consistent and professional look with an easily readable format. 
+<br>
+For the Secondary font the owners decided to use Quicksand with a backup of sans-serif, this will be used for emphasis and future changes to the website should there be major content updates. 
+
+
 
 
 
