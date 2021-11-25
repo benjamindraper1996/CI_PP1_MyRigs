@@ -156,5 +156,5 @@ Desktop Design
 - arrow selectors to allow the user to navigate the slide show back and forward.
 - User stories covered: 2,4,8,13
 
-
+![Carousel](documentation/features/carousel.JPG)
 
