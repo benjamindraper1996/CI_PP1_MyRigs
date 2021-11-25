@@ -151,51 +151,10 @@ Desktop Design
 
 ![Logo and navbar](documentation/features/logo-and-navbar-hamburger.JPG)
 
+### Carousel
+- Introduces the user to the range of products with pictures and a title for each.
+- arrow selectors to allow the user to navigate the slide show back and forward.
+- User stories covered: 2,4,8,13
 
 
-
-
-# MY RIGS
-
-## Features to implement in the future
-
-- Chat bot
-    - This was a request from the owners, this would require significant investment and can be implemented after the main launch.
-- FAQ page
-    - As a new company that uses used and refurbished hardware their users are likely to ask very similar questions about they quality of the products, these can often be answered by an FAQ page instead of speaking to members of the team who could be busy with other tasks.
--  Age appropiate theme
-    - Using the standard Dark/Light theme technique that a lot of websites implement one suggestion the owners asked for was a version targeted towards children and young adults and a version that adults can use without the distractions that allow them to make informed purchases.
-- Order system
-    - Simple order system for orders that do not require any sales team intervention, this free's up time for the sales team to focus on the people who really need help instead of people who already know what they want.
-
-## This website is the optimal way to acheive these goals because:
-
-- Most larger PC sales companies have websites that include an overwhelming variety of options with a difficult navigation system.
-- This website is built to be:
-    - Easy to navigate.
-    - Aesthetically pleasing.
-    - Gives a clear and well informed list of the designs available for purchase.
-    - Provides information about the business and the owner.
-    - Has an easy to use form to make first contact with the sales and support team.
-- Other sites focus more on the services or bundles that are applied to their products instead of the main PC.
-
-    ## Testing
-
-    ### Validator testing
-    - HTML
-        - W3C results
-    - CSS
-        - Jigsaw results
-    
-    ### Unfixed bugs
-
-    ## Deployment
-
-    ## Credits
-
-    ### Content
-
-    ### Media
-
-    ## Acknowledgements
 
