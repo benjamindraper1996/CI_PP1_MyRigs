@@ -121,56 +121,27 @@ Desktop Design
 <img src="documentation/wireframes/about-us-desktop.png">
 </details>
 
+## Technologies Used
+
+### Languages
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Bootstrap v5.0
+- Git
+- GitHub
+- Gitpod 
+- JustInMind
+- Google Fonts 
+- Favicon<span>.</span>io
+- coolors
+- Am I Responsive?
+
 
 
 
 # MY RIGS
-
-MY RIGS is a brand new, refurbished computer sales company based in Braintree, the United Kingdom. The website will be targeted toward people looking to buy a gaming computer at an afordable price. MY RIGS will be useful to compare the available products and make first contact with the company for sales and support.
-
-<!-- responsive design img -->
-
-## Features
-
- To inform visitors of the products available, the website will consist of multiple separate pages to include a description of the business with their goals and ethos within an accordion to make the items on the page easier to read. A page for all their products with images representing each design and a description accompanying it rotating on a carousel. There will also be “Contact Us” page to contact the team about any sales inquiries or support as well as where to find the offices.
-
-## Existing features
-
-- Navigation Bar
-    - Using the same theme across the website the navigation bar includes a logo, links to the Home, Products, Contact Us, and About Us pages.
-    - This section will allow for easy navigation across the website and all devices without having to to make use of the back button in the browser.
-
-<!-- Nav Bar img -->
-
-- Footer
-    - The footer will maintain the same theme across all pages of the website  with social media and contact information available.
-    - This section will allow the user to easilly get in touch via phone, email or link to external social media sites that open in a new tab.
-
-<!-- Footer img -->
-
-- Home Page
-    - The Home Page contains a description of what the company does, a description of the services they provide and general information about the products.
-    - This page will provide users with a basic information about the company and the type of products available.
-
-<!-- home page img -->
-
-- Products Page
-    - The Products Page has a rotating carousel with the current products that are available with a detailed description for each of them.
-    - This allows the user to see all the products available without overcrowding the screen weather it is a mobile or desktop device.
-
-<!-- products page img -->
-
-- Contact Us Page
-    - The Contact Us Page contains a form for users to fill out so they can get on touch via email about sales or technical queries. This page also contains the company address and a Google maps API to show the company location.
-    - This provides an easy point of contact for any website users so that they can initiate an email conversation with the sales and support team. The address and Google maps API enable the users to visit or if they are planning to collect or drop a computer off for servicing they can find their office.
-
-<!-- contact us img -->
-
-- About Us Page
-    - The About Us Page has an accordion dropdown with a detailed description of the services they offer and how they are tailored to each customer, it also contains information on how they take security seriously and how they handle user data. They also have a section for meeting the owners.
-    - This page gives the users a place to look for a more detailed description of the services available and the security measures the company takes to ensure all your information is kept safe. It also contains a section with information about the owners, this adds a personal touch to the website and helps to reassure potential customers.
-
-<!-- about us page img -->
 
 ## Features to implement in the future
 
