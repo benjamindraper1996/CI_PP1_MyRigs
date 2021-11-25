@@ -147,6 +147,10 @@ Desktop Design
 - The link for the page the user is currently hovering over is underlined. 
 - User stories covered: 5,6,14 
 
+![Logo and Navigation Bar](documentation/features/logo-and-navbar.JPG)
+
+![Logo and navbar](documentation/features/logo-and-navbar-hamburger.JPG)
+
 
 
 
