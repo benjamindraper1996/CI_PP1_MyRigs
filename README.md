@@ -158,3 +158,8 @@ Desktop Design
 
 ![Carousel](documentation/features/carousel.JPG)
 
+### Google Maps API
+- Allows the user to see the location of the company offices and the surrounding area
+- User stories covered: 1,12,15
+
+![Google Maps API](documentation/features/google-map.JPG)
