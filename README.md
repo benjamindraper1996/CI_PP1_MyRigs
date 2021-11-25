@@ -138,6 +138,16 @@ Desktop Design
 - coolors
 - Am I Responsive?
 
+## Features
+
+### Logo and Navigation Bar
+- Featured on all four pages.
+- The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes links to the Homepage, Products, Contact Us and About Us page.
+- It allows users to easily navigate the website.
+- The link for the page the user is currently hovering over is underlined. 
+- User stories covered: 5,6,14 
+
+
 
 
 
