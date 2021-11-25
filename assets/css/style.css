@@ -158,10 +158,17 @@ body {
 }
 
 .what-we-do h1,
-.cheap-and-capable-gaming h1,
-.your-pc-your-way h1 {
+.your-pc-your-way h1,
+.freaky-forts h1,
+.minecraft h1 {
     text-transform: capitalize;
     text-decoration: underline 3px solid #C80000;
+}
+
+.lego h1,
+.cheap-and-capable-gaming h1 {
+    text-transform: capitalize;
+    text-decoration: underline 3px solid #1616E3;
 }
 
 .text-box-left {
