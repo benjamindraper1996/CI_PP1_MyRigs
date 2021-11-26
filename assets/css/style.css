@@ -439,6 +439,7 @@ body {
 #form-and-location {
     height: 750px;
     width: 100%;
+    padding: 10px;
 }
 
 #contact-form {
