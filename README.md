@@ -199,3 +199,5 @@ Desktop Design
 - Each product is accompanied with two images one of each design type to allow the users to make a better choice.
 - Features description of design.
 - User stories covered: 2,3,4,8,13
+
+![Products](documentation/features/products.JPG)
