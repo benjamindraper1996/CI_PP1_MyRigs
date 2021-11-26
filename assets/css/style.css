@@ -555,6 +555,7 @@ body {
     width: 30%;
     height: auto;
     float: left;
+    margin-bottom: 5px;
 }
 
 .accordion-paragraph {
@@ -564,11 +565,11 @@ body {
 }
 
 .accordion-img img {
-    width: 100%;
+    width: 90%;
     height: auto;
 }
 
 .accordion-paragraph p {
     height: auto;
-    font-size: 180%;
+    font-size: 130%;
 }
