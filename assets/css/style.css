@@ -531,12 +531,16 @@ body {
 }
 
 .accordion-item {
-    border: 3px solid #000;
+    border: 3px solid #fff;
     background-color: #fff;
 }
 
 .accordion-button:focus {
-    box-shadow: 0 0 0 3px rgb(100 0 0 / 20%)
+    box-shadow: 0 0 0 0px rgb(0 0 0 / 1%)
+}
+
+.accordion-button:hover {
+box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
 }
 
 .accordion-button:not(.collapsed) {
