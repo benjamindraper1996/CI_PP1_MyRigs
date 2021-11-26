@@ -193,3 +193,9 @@ Desktop Design
 - User stories covered: 1,12,15
 
 ![Company address](documentation/features/company-address.JPG)
+
+### Products 
+- Gives an overview of the products in three sections one for each product currently available. This allows the website to be easily expanded later as more products are added.
+- Each product is accompanied with two images one of each design type to allow the users to make a better choice.
+- Features description of design.
+- User stories covered: 2,3,4,8,13
