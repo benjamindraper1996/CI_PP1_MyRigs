@@ -206,19 +206,19 @@ Desktop Design
 - Provides the user with information about the company while not displaying too much information at once, this is easily expandable in later versions should the site owner wish to do so.
 - User stories covered: 3,11
 
-<!-- ![Accordion](documentation/features/accordion.JPG) -->
+![Accordion](documentation/features/accordion.JPG)
 
 ### About Us
 - Gives a description of the services the company can offer, the security measures they take to keep customers safe and an introduction to the owners of the company.
 - User stories covered: 3,11,13
 
-<!-- ![About Us](documentation/features/about-us.JPG) -->
+![About Us](documentation/features/about-us.JPG)
 
 ### Meet the Owner
 - Features a short story about how the two owners of the website got together and decided to create the company.
 - User stories covered: 11
 
-<!-- ![Meet the owner](documentation/features/meet-the-owner.JPG)-->
+![Meet the owner](documentation/features/meet-the-owner.JPG)
 
 ### Contact form
 - Allows users to contact customer support for sales and support queries, this initiates an email conversation between the user and the support team.
