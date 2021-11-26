@@ -446,6 +446,7 @@ body {
     height: inherit;
     width: 50%;
     float: left;
+    padding-right: 5px;
     background-color: red;
 }
 
@@ -453,12 +454,12 @@ body {
     height: inherit;
     width: 50%;
     float: right;
+    padding-left: 5px;
 }
 
 #location {
-    width: 90%;
+    width: 100%;
     height: inherit;
-    margin: 0 5%;
     position: relative;
 }
 
