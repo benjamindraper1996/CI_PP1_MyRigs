@@ -541,3 +541,18 @@ body {
     transform: rotate(-180deg);
 }
 
+.accordion-img, .accordion-paragraph {
+    width: 33%;
+    height: auto;
+    display: inline-block;
+}
+
+.accordion-img img {
+    width: 100%;
+    height: auto;
+}
+
+.accordion-paragraph p {
+    height: auto;
+    font-size: 180%;
+}
