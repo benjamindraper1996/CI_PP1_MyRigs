@@ -191,3 +191,5 @@ Desktop Design
 ### Company address
 -  The Company Address allows users to find the company by their address, this can be used by some users with a Satnav or externally in Google maps.
 - User stories covered: 1,12,15
+
+![Company address](documentation/features/company-address.JPG)
