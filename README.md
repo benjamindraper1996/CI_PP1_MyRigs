@@ -159,7 +159,7 @@ Desktop Design
 
 ### Logo and Navigation Bar
 - Featured on all four pages.
-- The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes links to the Homepage, Products, Contact Us and About Us page.
+- The navigation bar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes links to the Homepage, Products, Contact Us and About Us page.
 - It allows users to easily navigate the website.
 - The link for the page the user is currently hovering over is underlined. 
 - User stories covered: 5,6,14 
@@ -201,3 +201,7 @@ Desktop Design
 - User stories covered: 2,3,4,8,13
 
 ![Products](documentation/features/products.JPG)
+
+### Accordion
+- Provides the user with information about the company while not displaying too much information at once, this is easily expandable in later versions should the site owner wish to do so.
+- User stories covered: 3,11
