@@ -358,8 +358,8 @@ body {
         margin-top: 5%;
     }
 
-    #address h1 {
-        font-size: 130%;
+    #address-outer h1 {
+        font-size: 160%;
     }
 }
 
@@ -551,10 +551,16 @@ body {
     transform: rotate(-180deg);
 }
 
-.accordion-img, .accordion-paragraph {
-    width: 33%;
+.accordion-img {
+    width: 30%;
     height: auto;
-    display: inline-block;
+    float: left;
+}
+
+.accordion-paragraph {
+    width: 40%;
+    height: auto;
+    float: left;
 }
 
 .accordion-img img {
