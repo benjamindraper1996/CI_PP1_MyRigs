@@ -577,3 +577,15 @@ box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
     height: auto;
     font-size: 130%;
 }
+
+.accordion-button {
+    background-color: #1616E3;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+#accordion-button-two {
+    background-color: #C80000;
+    color: #fff;
+}
