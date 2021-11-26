@@ -187,3 +187,7 @@ Desktop Design
 - User stories covered: 7,10,15
 
 ![Footer](documentation/features/footer.JPG)
+
+### Company address
+-  The Company Address allows users to find the company by their address, this can be used by some users with a Satnav or externally in Google maps.
+- User stories covered: 1,12,15
