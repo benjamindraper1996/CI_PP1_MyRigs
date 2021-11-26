@@ -7,7 +7,9 @@
 
 ## Table of Content
 
-<!-- table of content to be made last -->
+
+
+
 
 ## Project Goals 
 
@@ -163,3 +165,10 @@ Desktop Design
 - User stories covered: 1,12,15
 
 ![Google Maps API](documentation/features/google-map.JPG)
+
+### Footer
+- Featured on all four pages
+- Consists of two separate divs: contact information, and social media links
+- User stories covered: 7,10,15
+
+![Footer](documentation/features/footer.JPG)
