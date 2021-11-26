@@ -353,6 +353,14 @@ body {
         width: 100%;
 
     }
+
+    #address-outer {
+        margin-top: 5%;
+    }
+
+    #address h1 {
+        font-size: 130%;
+    }
 }
 
 #products-carousel-outer {
