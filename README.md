@@ -229,3 +229,11 @@ Desktop Design
 ### Customer support
 - Allows users to contact customer support for sales and support queries, this can be done through the contact form, over email, social media and by phone.
 - User stories covered: 5,6,7,9,10,15
+
+<!-- ![Customer support](documentation/features/customer-support.JPG) -->
+
+### Review
+- Allows users to contact customer support and leave a review through the contact form on the contact us page.
+- User stories covered: 6,9
+
+<!-- ![Review](documentation/features/review.JPG) -->
