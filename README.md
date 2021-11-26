@@ -223,3 +223,9 @@ Desktop Design
 ### Contact form
 - Allows users to contact customer support for sales and support queries, this initiates an email conversation between the user and the support team.
 - User stories covered: 6,9,15
+
+<!-- ![Contact Form](documentation/features/contact-form.JPG) -->
+
+### Customer support
+- Allows users to contact customer support for sales and support queries, this can be done through the contact form, over email, social media and by phone.
+- User stories covered: 5,6,7,9,10,15
