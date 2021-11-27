@@ -331,3 +331,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-2.jpg">
 </details>
+
+3. As a first-time user, I want to know more about what the company does.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to the About page | Find description of what services the company offers, the security measures they take and the information about the owners| Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-3.jpg">
+</details>
