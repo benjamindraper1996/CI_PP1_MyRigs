@@ -441,3 +441,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-13.jpg">
 </details>
+
+14. As the site owner, I want users to get to know the website. 
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to About page and locate Accordion information | See relevant information about the company | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-14.jpg">
+</details>
