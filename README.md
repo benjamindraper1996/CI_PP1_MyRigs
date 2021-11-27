@@ -341,3 +341,14 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-3.jpg">
 </details>
+
+4. As a first-time user, I want to get an idea of what to expect from the look and ability of my computer.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Products | Navigate to the Products page | Find pictures and information of the products on offer from the company | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-4.jpg">
+</details>
+
