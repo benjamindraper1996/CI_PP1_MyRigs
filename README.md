@@ -321,3 +321,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-1.jpg">
 </details>
+
+2. As a first-time user, I want to know the range of their products.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Products | Navigate to the Products page | See the Products on the products page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2.jpg">
+</details>
