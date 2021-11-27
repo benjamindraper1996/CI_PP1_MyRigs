@@ -255,3 +255,14 @@ All pages pass with <!-- fill in number of errors and warnings -->
 <details><summary>About Us Page </summary>
 <img src="documentation/validation/validation-html-about-us.jpg">
 </details>
+
+### CSS Validation
+I used the W3C Jigsaw CSS Validation Service to validate the CSS of the website.
+<!-- fill in number of errors and warnings -->
+<details><summary>whole page</summary>
+<img src="documentation/validation/validation-css-whole-page.jpg">
+</details>
+<details><summary>style.css</summary>
+<img src="documentation/validation/validation-css-style.jpg">
+</details>
+
