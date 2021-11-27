@@ -1,7 +1,7 @@
 # My Rigs
 (Developer: Benjamin Draper)
 
-![Mock-up image](documentation/am-i-responsive.JPG)
+![Mock-up image](documentation/wireframes/am-i-responsive.JPG)
 
  [Live webpage](https://benjamindraper1996.github.io/CI_PP1_MyRigs/)
 
