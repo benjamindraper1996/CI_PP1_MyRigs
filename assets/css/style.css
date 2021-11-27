@@ -568,6 +568,16 @@ box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
         font-size: 150%;
         width: 80%;
     }
+
+    .accordion-img {
+        width: 60%;
+    }
+
+    .accordion-paragraph p {
+        font-size: 100%;
+    }
+
+
 }
 
 @media screen and (max-width: 700px) {
