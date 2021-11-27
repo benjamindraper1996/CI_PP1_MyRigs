@@ -431,3 +431,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-12.jpg">
 </details>
+
+13. As the site owner, I want users to find information about the products available from the company.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Products | Navigate to the Products page | See the information available products for the products on offer | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-13.jpg">
+</details>
