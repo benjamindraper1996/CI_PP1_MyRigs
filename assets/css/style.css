@@ -625,4 +625,15 @@ box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
     #address-outer h1 {
         font-size: 160%;
     }
+
+    #contact-form {
+
+        width: 100%;
+        font-size: 140%;        
+    }
+
+    #address h1 {
+        max-width: 90%;
+        margin: 10% auto;
+    }
 }
