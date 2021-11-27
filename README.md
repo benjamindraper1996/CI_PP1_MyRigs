@@ -411,3 +411,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-10.jpg">
 </details>
+
+11. As a returning user, I want to know who owns the company.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Meet the owner | Navigate to the About Us page and scroll down and open the Meet the Owner section of the accordion | Find brief introduction to the owners and the company | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-11.jpg">
+</details>
