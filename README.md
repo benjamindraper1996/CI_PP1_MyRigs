@@ -361,3 +361,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-5.jpg">
 </details>
+
+6. As a returning user, I want to know how to leave a review.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Review | Navigate to the contact us page and use the form to leave a review | The user finds the form and form data is sent to the company. | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-6.jpg">
+</details>
