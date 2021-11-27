@@ -421,3 +421,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-11.jpg">
 </details>
+
+12. As a returning user, I want to get directions to the offices.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Company address | Navigate to the Contact Us page, locate the company address | See address to the company offices | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-12.jpg">
+</details>
