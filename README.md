@@ -330,7 +330,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Google Maps API | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the company. | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-1.jpg">
+<img src="documentation/user-story-testing/user-story-1.JPG">
 </details>
 
 2. As a first-time user, I want to know the range of their products.
@@ -340,7 +340,7 @@ The website was tested on the following browsers:
 | Products | Navigate to the Products page | See the Products on the products page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-2.jpg">
+<img src="documentation/user-story-testing/user-story-2.JPG">
 </details>
 
 3. As a first-time user, I want to know more about what the company does.
@@ -350,7 +350,7 @@ The website was tested on the following browsers:
 | About Us | Navigate to the About page | Find description of what services the company offers, the security measures they take and the information about the owners| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-3.jpg">
+<img src="documentation/user-story-testing/user-story-3.JPG">
 </details>
 
 4. As a first-time user, I want to get an idea of what to expect from the look and ability of my computer.
@@ -360,7 +360,7 @@ The website was tested on the following browsers:
 | Products | Navigate to the Products page | Find pictures and information of the products on offer from the company | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-4.jpg">
+<img src="documentation/user-story-testing/user-story-2.JPG">
 </details>
 
 5. As a returning user, I want to see easy access to the support area.
@@ -370,7 +370,7 @@ The website was tested on the following browsers:
 | Customer support | Navigate to the Contact Us page and locate the contact form | Find the contact form on Contact Us page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-5.jpg">
+<img src="documentation/user-story-testing/user-story-5.JPG">
 </details>
 
 6. As a returning user, I want to know how to leave a review.
@@ -380,7 +380,7 @@ The website was tested on the following browsers:
 | Review | Navigate to the contact us page and use the form to leave a review | The user finds the form and form data is sent to the company. | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-6.jpg">
+<img src="documentation/user-story-testing/user-story-6.JPG">
 </details>
 
 7. As a returning user, I want to find a phone number to call for ongoing support queries.
@@ -390,7 +390,7 @@ The website was tested on the following browsers:
 | Footer | On all pages scroll to the footer | See the phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-7v1-15.jpg">
+<img src="documentation/user-story-testing/user-story-7.JPG">
 </details>
 
 8. As a returning user, I want to see any new products that are available.
@@ -400,7 +400,7 @@ The website was tested on the following browsers:
 | Carousel | Navigate to the Products page | See any new available products | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-8.jpg">
+<img src="documentation/user-story-testing/user-story-8.JPG">
 </details>
 
 9. As a returning user, I want to leave some comment, suggestion, or message to the staff.
@@ -410,7 +410,7 @@ The website was tested on the following browsers:
 | Contact Form | Navigate to the Contact Us Page and locate the contact form, fill out and submit contact form | Data submitted via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-9.jpg">
+<img src="documentation/user-story-testing/user-story-5.JPG">
 </details>
 
 10. As a returning user, I want to find the company on social media.
@@ -420,7 +420,7 @@ The website was tested on the following browsers:
 | Footer | On all pages scroll to the footer of the page | Click on one of the three social media links | Works as expected | 
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-10.jpg">
+<img src="documentation/user-story-testing/user-story-10.JPG">
 </details>
 
 11. As a returning user, I want to know who owns the company.
@@ -430,7 +430,7 @@ The website was tested on the following browsers:
 | Meet the owner | Navigate to the About Us page and scroll down and open the Meet the Owner section of the accordion | Find brief introduction to the owners and the company | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-11.jpg">
+<img src="documentation/user-story-testing/user-story-11.JPG">
 </details>
 
 12. As a returning user, I want to get directions to the offices.
@@ -440,7 +440,7 @@ The website was tested on the following browsers:
 | Company address | Navigate to the Contact Us page, locate the company address | See address to the company offices | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-12.jpg">
+<img src="documentation/user-story-testing/user-story-12.JPG">
 </details>
 
 13. As the site owner, I want users to find information about the products available from the company.
@@ -450,7 +450,7 @@ The website was tested on the following browsers:
 | Products | Navigate to the Products page | See the information available products for the products on offer | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-13.jpg">
+<img src="documentation/user-story-testing/user-story-2.JPG">
 </details>
 
 14. As the site owner, I want users to get to know the website. 
@@ -460,7 +460,7 @@ The website was tested on the following browsers:
 | About Us | Navigate to About page and locate Accordion information | See relevant information about the company | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-14.jpg">
+<img src="documentation/user-story-testing/user-story-14.JPG">
 </details>
 
 15. As the site owner, I want the users to be able to contact us easily.
@@ -472,9 +472,9 @@ The website was tested on the following browsers:
 | Footer | On any page scroll down to the footer | Find the phone number | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-15-v1.jpg">
-<img src="documentation/user-story-testing/user-story-15-v2.jpg">
-<img src="documentation/user-story-testing/user-story-15-v3.jpg">
+<img src="documentation/user-story-testing/user-story-5.JPG">
+<img src="documentation/user-story-testing/user-story-10.JPG">
+<img src="documentation/user-story-testing/user-story-7.JPG">
 </details>
 
 ## Bugs
