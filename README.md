@@ -451,3 +451,17 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-14.jpg">
 </details>
+
+15. As the site owner, I want the users to be able to contact us easily.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Us Page, locate the contact form and submit a completed contact form | Data submitted via contact form | Works as expected |
+| Footer | On all pages scroll to the footer of the page | Click on one of the three social media links | Works as expected |
+| Footer | On any page scroll down to the footer | Find the phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-15-v1.jpg">
+<img src="documentation/user-story-testing/user-story-15-v2.jpg">
+<img src="documentation/user-story-testing/user-story-15-v3.jpg">
+</details>
