@@ -244,25 +244,55 @@ Desktop Design
 I used the W3C Validation Service to validate the HTML of the website.
 All pages pass with <!-- fill in number of errors and warnings -->
 <details><summary>Home Page</summary>
-<img src="documentation/validation/validation-html-index.jpg">
+<img src="documentation/validation/validation-html-index.JPG">
 </details>
 <details><summary>Products Page</summary>
-<img src="documentation/validation/validation-html-products.jpg">
+<img src="documentation/validation/validation-html-products.JPG">
 </details>
 <details><summary>Contact Us Page</summary>
-<img src="documentation/validation/validation-html-contact-us.jpg">
+<img src="documentation/validation/validation-html-contact-us.JPG">
 </details>
 <details><summary>About Us Page </summary>
-<img src="documentation/validation/validation-html-about-us.jpg">
+<img src="documentation/validation/validation-html-about-us.JPG">
 </details>
 
 ### CSS Validation
 I used the W3C Jigsaw CSS Validation Service to validate the CSS of the website.
 <!-- fill in number of errors and warnings -->
 <details><summary>whole page</summary>
-<img src="documentation/validation/validation-css-whole-page.jpg">
+<img src="documentation/validation/validation-css-whole-page.JPG">
 </details>
 <details><summary>style.css</summary>
-<img src="documentation/validation/validation-css-style.jpg">
+<img src="documentation/validation/validation-css-style.JPG">
 </details>
 
+### Accessibility
+I used WAVE WebAIM web accessibility evaluation tool to ensure the website met high accessibility standards. <!-- check back with number of errors -->
+<details><summary>Home Page</summary>
+<img src="documentation/validation/validation-accessibility-index.JPG">
+</details>
+<details><summary>Products Page</summary>
+<img src="documentation/validation/validation-accessibility-products.JPG">
+</details>
+<details><summary>Contact Us Page</summary>
+<img src="documentation/validation/validation-accessibility-contact-us.JPG">
+</details>
+<details><summary>About Us Page</summary>
+<img src="documentation/validation/validation-accessibility-about-us.JPG">
+</details>
+
+### Performance 
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
+
+<details><summary>Home Page</summary>
+<img src="documentation/validation/lighthouse-performance-index.JPG">
+</details>
+<details><summary>Products Page</summary>
+<img src="documentation/validation/lighthouse-performance-products.JPG">
+</details>
+<details><summary>Contact Us Page</summary>
+<img src="documentation/validation/lighthouse-performance-contact-us.JPG">
+</details>
+<details><summary>About Us Page</summary>
+<img src="documentation/validation/lighthouse-performance-about-us.JPG">
+</details>
