@@ -371,3 +371,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-6.jpg">
 </details>
+
+7. As a returning user, I want to find a phone number to call for ongoing support queries.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | On all pages scroll to the footer | See the phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-7v1-15.jpg">
+</details>
