@@ -352,3 +352,12 @@ The website was tested on the following browsers:
 <img src="documentation/user-story-testing/user-story-4.jpg">
 </details>
 
+5. As a returning user, I want to see easy access to the support area.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Customer support | Navigate to the Contact Us page and locate the contact form | Find the contact form on Contact Us page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-5.jpg">
+</details>
