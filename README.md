@@ -381,3 +381,13 @@ The website was tested on the following browsers:
 <details><summary>Screenshots</summary>
 <img src="documentation/user-story-testing/user-story-7v1-15.jpg">
 </details>
+
+8. As a returning user, I want to see any new products that are available.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Carousel | Navigate to the Products page | See any new available products | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-8.jpg">
+</details>
