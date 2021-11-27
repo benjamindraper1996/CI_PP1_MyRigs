@@ -1,7 +1,7 @@
 # My Rigs
 (Developer: Benjamin Draper)
 
-<!-- ![Mock-up image](docs/am-i-responsive.jpg)-->
+![Mock-up image](documentation/am-i-responsive.JPG)
 
  [Live webpage](https://benjamindraper1996.github.io/CI_PP1_MyRigs/)
 
@@ -280,16 +280,16 @@ I used the W3C Jigsaw CSS Validation Service to validate the CSS of the website.
 ### Accessibility
 I used WAVE WebAIM web accessibility evaluation tool to ensure the website met high accessibility standards. <!-- check back with number of errors -->
 <details><summary>Home Page</summary>
-<img src="documentation/validation/validation-accessibility-index.JPG">
+<img src="documentation/validation/accessibility-index.JPG">
 </details>
 <details><summary>Products Page</summary>
-<img src="documentation/validation/validation-accessibility-products.JPG">
+<img src="documentation/validation/accessibility-products.JPG">
 </details>
 <details><summary>Contact Us Page</summary>
-<img src="documentation/validation/validation-accessibility-contact-us.JPG">
+<img src="documentation/validation/accessibility-contact-us.JPG">
 </details>
 <details><summary>About Us Page</summary>
-<img src="documentation/validation/validation-accessibility-about-us.JPG">
+<img src="documentation/validation/accessibility-about-us.JPG">
 </details>
 
 ### Performance 
