@@ -311,3 +311,13 @@ The website was tested on the following browsers:
 - Mozilla Firefox
 - Microsoft Edge
 
+### Testing user stories
+
+1. As a first-time user, I want to know where the company is located.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Google Maps API | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the company. | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-1.jpg">
+</details>
