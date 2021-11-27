@@ -455,7 +455,19 @@ body {
     width: 50%;
     float: left;
     padding-right: 5px;
-    background-color: red;
+    font-size: 150%;
+    border: 3px solid #1616E3;
+    border-radius: 25px;
+}
+
+#contact-form label {
+    margin-left: 10%;
+}
+
+.input-box, #department {
+    width: 80%; 
+    margin: 0 10%;
+    border: 3px solid #C80000;
 }
 
 #location-outer {
