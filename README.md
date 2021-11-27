@@ -296,3 +296,18 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <details><summary>About Us Page</summary>
 <img src="documentation/validation/lighthouse-performance-about-us.JPG">
 </details>
+
+### Performing tests on various devices 
+The website was tested on the following devices:
+- HP Envy X360 (both in pc and tablet mode)
+- MacBook Pro 13” 2019
+- Samsung Galaxy S21 FE 5G
+
+In addition, the website was tested using Google Chrome Developer Tools Device Toggling option for all available device options.
+
+### Browser compatibility
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+
