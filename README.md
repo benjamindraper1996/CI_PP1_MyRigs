@@ -224,16 +224,34 @@ Desktop Design
 - Allows users to contact customer support for sales and support queries, this initiates an email conversation between the user and the support team.
 - User stories covered: 6,9,15
 
-<!-- ![Contact Form](documentation/features/contact-form.JPG) -->
+![Contact Form](documentation/features/contact-form.JPG)
 
 ### Customer support
 - Allows users to contact customer support for sales and support queries, this can be done through the contact form, over email, social media and by phone.
 - User stories covered: 5,6,7,9,10,15
 
-<!-- ![Customer support](documentation/features/customer-support.JPG) -->
+![Customer support](documentation/features/customer-support.JPG)
 
 ### Review
 - Allows users to contact customer support and leave a review through the contact form on the contact us page.
 - User stories covered: 6,9
 
-<!-- ![Review](documentation/features/review.JPG) -->
+![Review](documentation/features/review.JPG)
+
+## Validation
+
+### HTML Validation
+I used the W3C Validation Service to validate the HTML of the website.
+All pages pass with <!-- fill in number of errors and warnings -->
+<details><summary>Home Page</summary>
+<img src="documentation/validation/validation-html-index.jpg">
+</details>
+<details><summary>Products Page</summary>
+<img src="documentation/validation/validation-html-products.jpg">
+</details>
+<details><summary>Contact Us Page</summary>
+<img src="documentation/validation/validation-html-contact-us.jpg">
+</details>
+<details><summary>About Us Page </summary>
+<img src="documentation/validation/validation-html-about-us.jpg">
+</details>
