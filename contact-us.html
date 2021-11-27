@@ -64,10 +64,25 @@
         </div>
     </section>
     <section id="form-and-location">
-        <div id="contact-form">
-            <!-- Contact form -->
-
-        </div>
+        <!-- Contact Form -->
+        <form id="contact-form" action="https://formdump.codeinstitute.net/">
+            <label for="firstname">First Name</label>
+            <input id="firstname" type="text" name="first-name" class="input-box">
+            <label for="lastname">Last Name</label>
+            <input id="lastname" type="text" name="last-name" class="input-box">
+            <label for="email">Email Address</label>
+            <input id="form-email" type="email" name="email-address" class="input-box">
+            <label for="department">Department</label>
+            <select name="form_department" id="department">
+                <option value="select-department">Select Department</option>
+                <option value="sales-support">Sales Support</option>
+                <option value="tech-support">Technical Support</option>
+                <option value="review">Review</option>
+            </select>
+            <label for="message-box"> </label>
+            <textarea id="form-message-box" name="message-box" placeholder="Write us a message here."></textarea>
+            <input id="submit" type="submit" value="Submit" />
+        </form>
         <div id="location-outer">
             <div id="location">
                 <div id="address-outer">
