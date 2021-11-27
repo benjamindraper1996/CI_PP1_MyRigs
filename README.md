@@ -402,3 +402,12 @@ The website was tested on the following browsers:
 <img src="documentation/user-story-testing/user-story-9.jpg">
 </details>
 
+10. As a returning user, I want to find the company on social media.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | On all pages scroll to the footer of the page | Click on one of the three social media links | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-10.jpg">
+</details>
