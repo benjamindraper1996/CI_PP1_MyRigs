@@ -537,3 +537,15 @@ In order of apearance:
 - [model-owner-jake ](assets/images/model-owner-jake.jpg): Photo by <a href="https://pixabay.com/users/royalanwar-4597881/">Royal Anwar</a> on <a href="https://pixabay.com/photos/model-businessman-corporate-2911330/">Pixabay</a>
 - [model-owner-diana ](assets/images/model-owner-diana.jpg): Photo by <a href="https://pixabay.com/users/geralt-9301/">Gerd Altmann</a> on <a href="https://pixabay.com/illustrations/training-development-businesswoman-4497345/">Pixabay</a>
 - [404-page ](assets/images/404-page.PNG): Photo by <a href="https://pixabay.com/users/socialcreationsstudio-2039955/">Shelby Weers</a> on <a href="https://pixabay.com/illustrations/mistake-404-error-computer-website-1194670/">Pixabay</a>
+
+### Code
+In order of appearance:
+-  The HTML responsive and toggling [Navbar from bootstrap](https://getbootstrap.com/docs/5.1/components/navbar/#toggler) was used from the bootstrap v5.1 documentation code documentation and added to each header page of the website.
+-  The HTML [Carousel from bootstrap](https://getbootstrap.com/docs/5.1/components/carousel/#dark-variant) was used to display new products available from the company, i used the dark variant and added the "carousel-fade" attribute and accompanying CSS code into my own style.css for a custom slide change.
+- The embedded iframe [Google map](https://google-map-generator.com/) HTML was generated using Google's map generator, this allows me to add a map to the page without the need for my own API.
+- The HTML for the [toggling accordion](https://getbootstrap.com/docs/5.1/components/accordion/#always-open) was used from the bootstrap v5.1 documentation code documentation and added to the about us page of the website.
+- The 404 page was made using the build guide on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site), I then reused the header, footer and found a relevant image for the body.
+
+
+## Acknowledgements
+I would like to take the opportunity to thank:

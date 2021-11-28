@@ -50,121 +50,126 @@
       </nav>
     </div>
   </header>
-  <section id="products-carousel-outer">
-    <div id="products-carousel">
-      <!-- Carousel taken from bootstrap documentation code snippet, see README.md for more information -->
-      <div id="carouselExampleCaptions" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
-        <div class="carousel-indicators">
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
-            aria-current="true" aria-label="Slide 1"></button>
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
-            aria-label="Slide 2"></button>
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
-            aria-label="Slide 3"></button>
+  <main>
+    <section id="products-carousel-outer">
+      <div id="products-carousel">
+        <!-- Carousel taken from bootstrap documentation code snippet, see README.md for more information -->
+        <div id="carouselExampleCaptions" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
+              aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+              aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+              aria-label="Slide 3"></button>
+          </div>
+          <div class="carousel-inner" data-bs-interval="10000">
+            <div class="carousel-item active">
+              <div id="fortnight">
+                <img class="carousel-right" src="assets/images/freaky-forts-black.jpg" alt="Fortnight Themed Computer.">
+                <img class="carousel-left" src="assets/images/freaky-forts-green.jpg" alt="Fortnight Themed Computer.">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Fortnight Themed Computer.</h5>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item" data-bs-interval="10000">
+              <div id="lego">
+                <img class="carousel-right" src="assets/images/lego-brick-pc.png" alt="Lego Themed Computer.">
+                <img class="carousel-left" src="assets/images/lego-brick-wall-pc.png" alt="Lego Themed Computer.">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Lego Themed Computer.</h5>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item" data-bs-interval="10000">
+              <div id="minecraft">
+                <img class="carousel-right" src="assets/images/minecraft-grass-pc.png" alt="Minecraft Themed Computer.">
+                <img class="carousel-left" src="assets/images/minecraft-ore-pc.png" alt="Minecraft Themed Computer.">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Minecraft Themed Computer.</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
+            data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
+            data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
         </div>
-        <div class="carousel-inner" data-bs-interval="10000">
-          <div class="carousel-item active">
-            <div id="fortnight">
-              <img class="carousel-right" src="assets/images/freaky-forts-black.jpg" alt="Fortnight Themed Computer.">
-              <img class="carousel-left" src="assets/images/freaky-forts-green.jpg" alt="Fortnight Themed Computer.">
-              <div class="carousel-caption d-none d-md-block">
-                <h5>Fortnight Themed Computer.</h5>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item" data-bs-interval="10000">
-            <div id="lego">
-              <img class="carousel-right" src="assets/images/lego-brick-pc.png" alt="Lego Themed Computer.">
-              <img class="carousel-left" src="assets/images/lego-brick-wall-pc.png" alt="Lego Themed Computer.">
-              <div class="carousel-caption d-none d-md-block">
-                <h5>Lego Themed Computer.</h5>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item" data-bs-interval="10000">
-            <div id="minecraft">
-              <img class="carousel-right" src="assets/images/minecraft-grass-pc.png" alt="Minecraft Themed Computer.">
-              <img class="carousel-left" src="assets/images/minecraft-ore-pc.png" alt="Minecraft Themed Computer.">
-              <div class="carousel-caption d-none d-md-block">
-                <h5>Minecraft Themed Computer.</h5>
-              </div>
-            </div>
-          </div>
-        </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions"
-          data-bs-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Previous</span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions"
-          data-bs-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="visually-hidden">Next</span>
-        </button>
       </div>
-    </div>
-  </section>
-  <section id="products-content-outer">
-    <div id="products-content">
-      <!-- Main Header -->
-      <h1>Visit our Contact Us page and send us a message about any sales and quotes you might be looking for.</h1>
-      <p>Our team is here to speak to about any quotes and queries you might have, send us an email to find out more.
-      </p>
-    </div>
-  </section>
-  <section id=product-info>
-    <!-- Fortnight Product information -->
-    <div class="freaky-forts">
+    </section>
+    <section id="products-content-outer">
+      <div id="products-content">
+        <!-- Main Header -->
+        <h1>Visit our Contact Us page and send us a message about any sales and quotes you might be looking for.</h1>
+        <p>Our team is here to speak to about any quotes and queries you might have, send us an email to find out more.
+        </p>
+      </div>
+    </section>
+    <section id=product-info>
+      <!-- Fortnight Product information -->
+      <div class="freaky-forts">
         <div class="text-box-left">
-            <h1>Freaky Forts.</h1>
-            <!-- Fortnight accompaning paragraph -->
-            <p>
-                These two Fortnight themed computers could be the ones for you if you are into a faster paced type of gameplay, this rig will be able to handle anything you will be able to throw at it.
-            </p>
+          <h1>Freaky Forts.</h1>
+          <!-- Fortnight accompaning paragraph -->
+          <p>
+            These two Fortnight themed computers could be the ones for you if you are into a faster paced type of
+            gameplay, this rig will be able to handle anything you will be able to throw at it.
+          </p>
         </div>
         <!-- Fortnight accompaning pictures -->
         <div class="image-box-right">
-            <img src="assets/images/freaky-forts-black.jpg" alt="Black Fortnight Themed Computer.">
+          <img src="assets/images/freaky-forts-black.jpg" alt="Black Fortnight Themed Computer.">
         </div>
         <div class="image-box-right">
-            <img src="assets/images/freaky-forts-green.jpg" alt="Green Fortnight Themed Computer.">
+          <img src="assets/images/freaky-forts-green.jpg" alt="Green Fortnight Themed Computer.">
         </div>
-    </div>
-    <!-- LEGO Theme -->
-    <div class="lego">
+      </div>
+      <!-- LEGO Theme -->
+      <div class="lego">
         <div class="text-box-right">
-            <h1>LEGO Theme.</h1>
-            <!-- LEGO Theme accompaning paragraph -->
-            <p>
-                These LEGO styled computers could be the ones for you if you enjoy building and have a active imagination these capable computers are able to handle medium games while still being afordable.
-            </p>
+          <h1>LEGO Theme.</h1>
+          <!-- LEGO Theme accompaning paragraph -->
+          <p>
+            These LEGO styled computers could be the ones for you if you enjoy building and have a active imagination
+            these capable computers are able to handle medium games while still being afordable.
+          </p>
         </div>
         <!-- LEGO Theme accompaning pictures -->
         <div class="image-box-left">
-            <img src="assets/images/lego-brick-pc.png" alt="Lego Brick Themed Computer.">
+          <img src="assets/images/lego-brick-pc.png" alt="Lego Brick Themed Computer.">
         </div>
         <div class="image-box-left">
-            <img src="assets/images/lego-brick-wall-pc.png" alt="Lego Brick Wall Themed Computer.">
+          <img src="assets/images/lego-brick-wall-pc.png" alt="Lego Brick Wall Themed Computer.">
         </div>
-    </div>
-    <!-- Minecraft Theme -->
-    <div class="minecraft">
+      </div>
+      <!-- Minecraft Theme -->
+      <div class="minecraft">
         <div class="text-box-left">
-            <h1>Minecraft Theme.</h1>
-            <!-- Minecraft Theme accompaning paragraph -->
-            <p>
-                For those who love to build and relax we have minecraft themed computers to fulfil your childs dreams of becoming part of the video game itself.
-            </p>
+          <h1>Minecraft Theme.</h1>
+          <!-- Minecraft Theme accompaning paragraph -->
+          <p>
+            For those who love to build and relax we have minecraft themed computers to fulfil your childs dreams of
+            becoming part of the video game itself.
+          </p>
         </div>
         <!-- Minecraft Theme accompaning pictures -->
         <div class="image-box-right">
-            <img src="assets/images/minecraft-grass-pc.png" alt="Minecraft Grass Themed Computer.">
+          <img src="assets/images/minecraft-grass-pc.png" alt="Minecraft Grass Themed Computer.">
         </div>
         <div class="image-box-right">
-            <img src="assets/images/minecraft-ore-pc.png" alt="Minecraft Ore Themed Computer.">
+          <img src="assets/images/minecraft-ore-pc.png" alt="Minecraft Ore Themed Computer.">
         </div>
-    </div>
-</section>
+      </div>
+    </section>
+  </main>
   <footer>
     <!-- Contact information -->
     <div class="footer">
@@ -204,5 +209,4 @@
     integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous">
   </script>
 </body>
-
 </html>

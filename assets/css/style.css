@@ -38,8 +38,8 @@ body {
 }
 
 .navbar-dark .navbar-toggler {
-    color: rgba(0,0,255,.55);
-    border-color: rgba(0,0,255,.1);
+    color: rgba(0, 0, 255, .55);
+    border-color: rgba(0, 0, 255, .1);
 }
 
 .navbar-dark .navbar-toggler-icon {
@@ -341,8 +341,9 @@ body {
     margin-left: 10%;
 }
 
-.input-box, #department {
-    width: 80%; 
+.input-box,
+#department {
+    width: 80%;
     margin: 0 10%;
     border: 3px solid #C80000;
 }
@@ -436,7 +437,7 @@ body {
 }
 
 .accordion-button:hover {
-box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
+    box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
 }
 
 .accordion-button:not(.collapsed) {
@@ -671,7 +672,7 @@ box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
     #contact-form {
 
         width: 100%;
-        font-size: 140%;        
+        font-size: 140%;
     }
 
     #address h1 {
@@ -679,7 +680,8 @@ box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
         margin: 10% auto;
     }
 
-    .accordion-paragraph, .accordion-image-outer {
+    .accordion-paragraph,
+    .accordion-image-outer {
         width: 100%;
     }
 }
