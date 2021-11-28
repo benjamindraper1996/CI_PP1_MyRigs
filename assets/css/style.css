@@ -497,6 +497,7 @@ main {
     border-radius: 25px;
     margin-bottom: 10px;
     color: #fff;
+    font-size: 120%;
 }
 
 #accordion-button-two {
