@@ -253,7 +253,7 @@ Desktop Design
 
 ### HTML Validation
 I used the W3C Validation Service to validate the HTML of the website.
-All pages pass with <!-- fill in number of errors and warnings -->
+The Product page passed validation with no errors, The Home, Contact Us and About Us pages passed with one warning where teh hero image had no header, this was intentional as it is only used to display the hero image.
 <details><summary>Home Page</summary>
 <img src="documentation/validation/validation-html-index.JPG">
 </details>
@@ -276,7 +276,7 @@ My CSS passed with no errors and one warning relating to impoting of external st
 
 
 ### Accessibility
-I used WAVE WebAIM web accessibility evaluation tool to ensure the website met high accessibility standards. <!-- check back with number of errors -->
+I used WAVE WebAIM web accessibility evaluation tool to ensure the website met high accessibility standards. All pages passed with no errors and minimal warnings.
 <details><summary>Home Page</summary>
 <img src="documentation/validation/accessibility-index.JPG">
 </details>
@@ -509,6 +509,9 @@ You can clone the repository by following these steps:
 Images and Logos not referenced below are owned by the developer.
 
 ### Media
+
+Some of the pictures below were edited after being sourced from the following resources, this was either to aid in the website design or to allow for proper mockups of the company products to be created in the absence of final versions.
+
 In order of apearance:
 - [home-screen-hero ](assets/images/home-screen-hero.webp): Photo by <a href="https://pixabay.com/users/sergeitokmakov-3426571/">Sergei Tokmakov</a> on <a href="https://pixabay.com/illustrations/computer-8-bit-old-retro-isolated-4812101/">Pixabay</a>
 - [gamer-boy-2 ](assets/images/gamer-boy2.webp): Photo by <a href="https://pixabay.com/users/tomasz_mikolajczyk-106840/">Tomasz Mikołajczyk</a> on <a href="https://pixabay.com/photos/game-strategy-computer-289470/">Pixabay</a>
@@ -547,3 +550,8 @@ In order of appearance:
 
 ## Acknowledgements
 I would like to take the opportunity to thank:
+- My mentor Mo Shami, for his feedback, advice, guidance and support.
+- My partner Megan Fox, for her support advice, help testing and allowing me the free time to work on my project.
+- Lee Webb on slack (lee webb2015) for his help pointing me in the right direction towards bootstrap.
+- To the Code Institute Slack community for providing help and support.
+- To Dominic Wingfield who is the real owner of the company but did not opt to be the face of of it only the inspiration behind it.
