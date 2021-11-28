@@ -492,6 +492,13 @@ box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
     color: #fff;
 }
 
+/* 404 error styles */
+#error-img img {
+    width: 60%;
+    height: auto;
+    margin: 0 20%;
+}
+
 /* media queries styles */
 @media screen and (max-width: 1050px) {
 
