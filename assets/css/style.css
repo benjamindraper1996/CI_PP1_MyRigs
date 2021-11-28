@@ -11,6 +11,7 @@ body {
     font-weight: 300;
 }
 
+/* navbar styles */
 .navbar {
     background-color: #707070;
     border-bottom: 3px solid #C80000;
@@ -45,6 +46,7 @@ body {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(22, 22, 227, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
 }
 
+/* hero styles */
 .hero-outer {
     height: 500px;
     width: 100%;
@@ -75,6 +77,7 @@ body {
     background-position: center;
 }
 
+/* footer styles */
 .footer {
     margin-top: 50px;
     background-color: #707070;
@@ -134,12 +137,14 @@ body {
     padding-right: 20px;
 }
 
+/* home body styles */
 .home-info,
 #product-info {
     width: 80%;
     margin: 50px 10%;
 }
 
+/* home and products text and img styles */
 .what-we-do,
 .cheap-and-capable-gaming,
 .your-pc-your-way,
@@ -209,6 +214,7 @@ body {
     object-fit: cover;
 }
 
+/* products carousel styles */
 #products-carousel-outer {
     height: 500px;
     width: 100%;
@@ -219,21 +225,6 @@ body {
 #products-content-outer {
     height: 500px;
     width: 100%;
-}
-
-#products-content {
-    text-align: center;
-    margin: 0 20%;
-    font-size: 180%;
-    padding: 5% 0;
-}
-
-#products-content h1 {
-    text-decoration: underline 3px solid #C80000;
-}
-
-#products-content p {
-    margin-top: 10%;
 }
 
 #products-carousel-outer {
@@ -268,6 +259,44 @@ body {
     transform: translate3d(0, 0, 0);
 }
 
+.carousel-inner {
+    width: auto;
+    margin: 0 auto;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-right {
+    float: right;
+}
+
+.carousel-caption h5 {
+    color: #000;
+    background-color: #fff;
+    width: 40%;
+    text-align: center;
+    margin: 0 30%;
+}
+
+/* products-content styles */
+#products-content {
+    text-align: center;
+    margin: 0 20%;
+    font-size: 180%;
+    padding: 5% 0;
+}
+
+#products-content h1 {
+    text-decoration: underline 3px solid #C80000;
+}
+
+#products-content p {
+    margin-top: 10%;
+}
+
+/* get-in-touch text styles */
 #get-in-touch-outer {
     height: 500px;
     width: 100%;
@@ -290,12 +319,14 @@ body {
     margin-top: 5%;
 }
 
+/* form, address and map styles */
 #form-and-location {
     height: 750px;
     width: 100%;
     padding: 10px;
 }
 
+/* form styles */
 #contact-form {
     height: inherit;
     width: 50%;
@@ -331,6 +362,7 @@ body {
     border-radius: 25px;
 }
 
+/* address styles */
 #location-outer {
     height: inherit;
     width: 50%;
@@ -368,6 +400,7 @@ body {
     padding: 5% 0;
 }
 
+/* google map styles */
 #google-map {
     width: 100%;
     height: 55%;
@@ -387,27 +420,7 @@ body {
     border-radius: 25px;
 }
 
-.carousel-inner {
-    width: auto;
-    margin: 0 auto;
-}
-
-.carousel-item {
-    height: 500px;
-}
-
-.carousel-right {
-    float: right;
-}
-
-.carousel-caption h5 {
-    color: #000;
-    background-color: #fff;
-    width: 40%;
-    text-align: center;
-    margin: 0 30%;
-}
-
+/* accordion styles */
 #accordion-outer {
     width: 80%;
     margin: 50px 10%;
@@ -479,6 +492,7 @@ box-shadow: 0 0 0 3px rgb(200 0 0 / 1)
     color: #fff;
 }
 
+/* media queries styles */
 @media screen and (max-width: 1050px) {
 
     .image-box-right,
