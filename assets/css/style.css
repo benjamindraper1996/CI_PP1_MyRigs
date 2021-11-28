@@ -66,7 +66,7 @@ main {
 #home-screen-hero {
     height: 500px;
     width: 100%;
-    background-image: url(../images/home-screen-hero.png);
+    background-image: url(../images/home-screen-hero.webp);
     background-size: cover;
     background-position: center top;
 }
