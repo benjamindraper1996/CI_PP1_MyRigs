@@ -485,7 +485,7 @@ The website was tested on the following browsers:
 | The Social media icons took the current tab to the new website instead of opening in a new tab | Add target="_blank" attribute to 'a' tag |
 | When viewed on tablets, the google maps API I used moved the pin around on the map | Swap to a iframe embedded version of google maps |
 | Navbar divides into two rows on xs screen size | Using bootstrap to create a burger style dropdown menu when the screen is too small |
-
+| Removed whitespace after footer but body contents overlaps with footer | Removed "position: absolute" from footer |
 ## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
