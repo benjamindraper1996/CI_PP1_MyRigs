@@ -479,7 +479,12 @@ The website was tested on the following browsers:
 
 ## Bugs
 
-
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| The user can submit a contact form input without a message | Add required attribute to message input field |
+| The Social media icons took the current tab to the new website instead of opening in a new tab | Add target="_blank" attribute to 'a' tag |
+| When viewed on tablets, the google maps API I used moved the pin around on the map | Swap to a iframe embedded version of google maps |
+| Navbar divides into two rows on xs screen size | Using bootstrap to create a burger style dropdown menu when the screen is too small |
 
 ## Deployment
 
@@ -501,3 +506,9 @@ You can clone the repository by following these steps:
 5. Change the current working directory to the one where you want the cloned directory
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
 7.Press Enter to create your local clone.
+
+## Credits
+Images and Logos not referenced below are owned by the developer.
+
+### Media
+In order of apearance:
