@@ -269,13 +269,11 @@ All pages pass with <!-- fill in number of errors and warnings -->
 
 ### CSS Validation
 I used the W3C Jigsaw CSS Validation Service to validate the CSS of the website.
-<!-- fill in number of errors and warnings -->
-<details><summary>whole page</summary>
+My CSS passed with no errors and one warning relating to impoting of external stylesheets.
+<details><summary>CSS Validation</summary>
 <img src="documentation/validation/validation-css-whole-page.JPG">
 </details>
-<details><summary>style.css</summary>
-<img src="documentation/validation/validation-css-style.JPG">
-</details>
+
 
 ### Accessibility
 I used WAVE WebAIM web accessibility evaluation tool to ensure the website met high accessibility standards. <!-- check back with number of errors -->
