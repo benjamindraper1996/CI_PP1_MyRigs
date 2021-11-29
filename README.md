@@ -501,9 +501,9 @@ The website was tested on the following browsers:
 | Responsive Design | View the Website on various devices, desktop, laptop and mobile. | Website is responsive and re-sizes depending upon the viewport. | Works as expected. |
 
 <details><summary>Screenshots</summary>
-<img src="documentation/user-story-testing/user-story-16.JPG">
-<img src="documentation/user-story-testing/user-story-16.1.JPG">
-<img src="documentation/user-story-testing/user-story-16.2.JPG">
+<img src="documentation/user-story-testing/user-story-16-1.JPG">
+<img src="documentation/user-story-testing/user-story-16-2.JPG">
+<img src="documentation/user-story-testing/user-story-16-3.JPG">
 </details>
 
 17. As the company owner, I want users to get redirected to a custom 404 error page if they type in a wrong link into thier browser.
