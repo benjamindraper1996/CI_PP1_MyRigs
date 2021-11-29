@@ -92,7 +92,7 @@
 14. As the company owner, I want users to get to know the website. 
 15. As the company owner, I want the users to be able to contact us easily.
 16. As the company owner, I want the website to act in a responsive manner on all devices.
-17. As the company owner, I dont want users to get redirected to a custom 404 error page if they type in a wrong link into thier browser.
+17. As the company owner, I want users to get redirected to a custom 404 error page if they type in a wrong link into thier browser.
 
 ## Design
 
@@ -487,7 +487,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Responsive Design | View the Website on various devices, desktop, laptop and mobile. | Website is responsive and re-sizes depending upon the viewport. | Works as expected. |
 
-17. As the company owner, I dont want users to get redirected to a custom 404 error page if they type in a wrong link into thier browser.
+17. As the company owner, I want users to get redirected to a custom 404 error page if they type in a wrong link into thier browser.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
