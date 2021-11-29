@@ -547,6 +547,11 @@ main {
         margin: 10px auto;
         float: none;
     }
+
+    #error-main {
+        min-height: auto;
+        padding-bottom: 0;
+    }
 }
 
 @media screen and (max-width: 800px) {
