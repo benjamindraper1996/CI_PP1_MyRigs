@@ -302,7 +302,7 @@ I used WAVE WebAIM web accessibility evaluation tool to ensure the website met h
 <details><summary>About Us Page</summary>
 <img src="documentation/validation/accessibility-about-us.JPG">
 </details>
-<details><summary>About Us Page</summary>
+<details><summary>404 Page</summary>
 <img src="documentation/validation/accessibility-404.JPG">
 </details>
 
@@ -321,7 +321,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <details><summary>About Us Page</summary>
 <img src="documentation/validation/lighthouse-performance-about-us.JPG">
 </details>
-<details><summary>About Us Page</summary>
+<details><summary>404 Page</summary>
 <img src="documentation/validation/lighthouse-performance-404.JPG">
 </details>
 
