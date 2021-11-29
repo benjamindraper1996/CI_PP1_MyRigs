@@ -552,6 +552,10 @@ main {
         min-height: auto;
         padding-bottom: 0;
     }
+
+    #error-img {
+        height: 635px;
+    }
 }
 
 @media screen and (max-width: 800px) {
@@ -618,6 +622,14 @@ main {
 
     .accordion-paragraph p {
         font-size: 100%;
+    }
+
+    #error-img {
+        height: 310px;
+    }
+
+    #error-img {
+        height: 520px;
     }
 
 
@@ -704,5 +716,9 @@ main {
     .accordion-paragraph,
     .accordion-image-outer {
         width: 100%;
+    }
+
+    #error-img {
+        height: 310px;
     }
 }

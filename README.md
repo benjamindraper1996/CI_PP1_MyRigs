@@ -252,8 +252,12 @@ Desktop Design
 ![Review](documentation/features/review.JPG)
 
 ### Responsive Design
-- 
-- User stories covered: 
+- Allows the webpage to resize to be easilly viewed on all types on devices with different types of viewports.
+- User stories covered: 16
+
+### 404 Error page
+- Prevents the user from getting lost by entering a url that does not exist and redirecting them to a custom error page directing them back to the main website.
+- User stories covered: 17
 
 ## Validation
 
@@ -271,6 +275,9 @@ The Product page passed validation with no errors, The Home, Contact Us and Abou
 </details>
 <details><summary>About Us Page </summary>
 <img src="documentation/validation/validation-html-about-us.JPG">
+</details>
+<details><summary>404 Error Page </summary>
+<img src="documentation/validation/validation-html-404.JPG">
 </details>
 
 ### CSS Validation
@@ -295,6 +302,9 @@ I used WAVE WebAIM web accessibility evaluation tool to ensure the website met h
 <details><summary>About Us Page</summary>
 <img src="documentation/validation/accessibility-about-us.JPG">
 </details>
+<details><summary>About Us Page</summary>
+<img src="documentation/validation/accessibility-404.JPG">
+</details>
 
 ### Performance 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
@@ -310,6 +320,9 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 </details>
 <details><summary>About Us Page</summary>
 <img src="documentation/validation/lighthouse-performance-about-us.JPG">
+</details>
+<details><summary>About Us Page</summary>
+<img src="documentation/validation/lighthouse-performance-404.JPG">
 </details>
 
 ### Performing tests on various devices 
@@ -487,11 +500,21 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Responsive Design | View the Website on various devices, desktop, laptop and mobile. | Website is responsive and re-sizes depending upon the viewport. | Works as expected. |
 
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-16.JPG">
+<img src="documentation/user-story-testing/user-story-16.1.JPG">
+<img src="documentation/user-story-testing/user-story-16.2.JPG">
+</details>
+
 17. As the company owner, I want users to get redirected to a custom 404 error page if they type in a wrong link into thier browser.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | 404 Feature | Navigate to the any page of the website and type in to the address bar of the browser an incorrect url | User is redirected to the 404.html page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="documentation/user-story-testing/user-story-17.JPG">
+</details>
 
 ## Bugs
 
