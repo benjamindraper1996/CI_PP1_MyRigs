@@ -91,6 +91,8 @@
 13. As the company owner, I want users to find information about the products available from the company.
 14. As the company owner, I want users to get to know the website. 
 15. As the company owner, I want the users to be able to contact us easily.
+16. As the company owner, I want the website to act in a responsive manner on all devices.
+17. As the company owner, I dont want users to get redirected to a custom 404 error page if they type in a wrong link into thier browser.
 
 ## Design
 
@@ -248,6 +250,10 @@ Desktop Design
 - User stories covered: 6,9
 
 ![Review](documentation/features/review.JPG)
+
+### Responsive Design
+- 
+- User stories covered: 
 
 ## Validation
 
@@ -441,7 +447,7 @@ The website was tested on the following browsers:
 <img src="documentation/user-story-testing/user-story-12.JPG">
 </details>
 
-13. As the site owner, I want users to find information about the products available from the company.
+13. As the company owner, I want users to find information about the products available from the company.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -451,7 +457,7 @@ The website was tested on the following browsers:
 <img src="documentation/user-story-testing/user-story-2.JPG">
 </details>
 
-14. As the site owner, I want users to get to know the website. 
+14. As the company owner, I want users to get to know the website. 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -461,7 +467,7 @@ The website was tested on the following browsers:
 <img src="documentation/user-story-testing/user-story-14.JPG">
 </details>
 
-15. As the site owner, I want the users to be able to contact us easily.
+15. As the company owner, I want the users to be able to contact us easily.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
@@ -474,6 +480,18 @@ The website was tested on the following browsers:
 <img src="documentation/user-story-testing/user-story-10.JPG">
 <img src="documentation/user-story-testing/user-story-7.JPG">
 </details>
+
+16. As the company owner, I want the website to act in a responsive manner on all devices.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Responsive Design | View the Website on various devices, desktop, laptop and mobile. | Website is responsive and re-sizes depending upon the viewport. | Works as expected. |
+
+17. As the company owner, I dont want users to get redirected to a custom 404 error page if they type in a wrong link into thier browser.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 Feature | Navigate to the any page of the website and type in to the address bar of the browser an incorrect url | User is redirected to the 404.html page | Works as expected |
 
 ## Bugs
 
